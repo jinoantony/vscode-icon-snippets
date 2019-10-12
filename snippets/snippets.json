@@ -1,0 +1,4663 @@
+
+{
+    "material icons: 3d_rotation": {
+        "prefix": "mi:3d_rotation",
+        "body": "<i class=\"material-icons\">3d_rotation</i>",
+        "description": "Material icon 3d_rotation"
+    },
+    "material icons: ac_unit": {
+        "prefix": "mi:ac_unit",
+        "body": "<i class=\"material-icons\">ac_unit</i>",
+        "description": "Material icon ac_unit"
+    },
+    "material icons: access_alarm": {
+        "prefix": "mi:access_alarm",
+        "body": "<i class=\"material-icons\">access_alarm</i>",
+        "description": "Material icon access_alarm"
+    },
+    "material icons: access_alarms": {
+        "prefix": "mi:access_alarms",
+        "body": "<i class=\"material-icons\">access_alarms</i>",
+        "description": "Material icon access_alarms"
+    },
+    "material icons: access_time": {
+        "prefix": "mi:access_time",
+        "body": "<i class=\"material-icons\">access_time</i>",
+        "description": "Material icon access_time"
+    },
+    "material icons: accessibility": {
+        "prefix": "mi:accessibility",
+        "body": "<i class=\"material-icons\">accessibility</i>",
+        "description": "Material icon accessibility"
+    },
+    "material icons: accessible": {
+        "prefix": "mi:accessible",
+        "body": "<i class=\"material-icons\">accessible</i>",
+        "description": "Material icon accessible"
+    },
+    "material icons: account_balance": {
+        "prefix": "mi:account_balance",
+        "body": "<i class=\"material-icons\">account_balance</i>",
+        "description": "Material icon account_balance"
+    },
+    "material icons: account_balance_wallet": {
+        "prefix": "mi:account_balance_wallet",
+        "body": "<i class=\"material-icons\">account_balance_wallet</i>",
+        "description": "Material icon account_balance_wallet"
+    },
+    "material icons: account_box": {
+        "prefix": "mi:account_box",
+        "body": "<i class=\"material-icons\">account_box</i>",
+        "description": "Material icon account_box"
+    },
+    "material icons: account_circle": {
+        "prefix": "mi:account_circle",
+        "body": "<i class=\"material-icons\">account_circle</i>",
+        "description": "Material icon account_circle"
+    },
+    "material icons: adb": {
+        "prefix": "mi:adb",
+        "body": "<i class=\"material-icons\">adb</i>",
+        "description": "Material icon adb"
+    },
+    "material icons: add": {
+        "prefix": "mi:add",
+        "body": "<i class=\"material-icons\">add</i>",
+        "description": "Material icon add"
+    },
+    "material icons: add_a_photo": {
+        "prefix": "mi:add_a_photo",
+        "body": "<i class=\"material-icons\">add_a_photo</i>",
+        "description": "Material icon add_a_photo"
+    },
+    "material icons: add_alarm": {
+        "prefix": "mi:add_alarm",
+        "body": "<i class=\"material-icons\">add_alarm</i>",
+        "description": "Material icon add_alarm"
+    },
+    "material icons: add_alert": {
+        "prefix": "mi:add_alert",
+        "body": "<i class=\"material-icons\">add_alert</i>",
+        "description": "Material icon add_alert"
+    },
+    "material icons: add_box": {
+        "prefix": "mi:add_box",
+        "body": "<i class=\"material-icons\">add_box</i>",
+        "description": "Material icon add_box"
+    },
+    "material icons: add_circle": {
+        "prefix": "mi:add_circle",
+        "body": "<i class=\"material-icons\">add_circle</i>",
+        "description": "Material icon add_circle"
+    },
+    "material icons: add_circle_outline": {
+        "prefix": "mi:add_circle_outline",
+        "body": "<i class=\"material-icons\">add_circle_outline</i>",
+        "description": "Material icon add_circle_outline"
+    },
+    "material icons: add_location": {
+        "prefix": "mi:add_location",
+        "body": "<i class=\"material-icons\">add_location</i>",
+        "description": "Material icon add_location"
+    },
+    "material icons: add_shopping_cart": {
+        "prefix": "mi:add_shopping_cart",
+        "body": "<i class=\"material-icons\">add_shopping_cart</i>",
+        "description": "Material icon add_shopping_cart"
+    },
+    "material icons: add_to_photos": {
+        "prefix": "mi:add_to_photos",
+        "body": "<i class=\"material-icons\">add_to_photos</i>",
+        "description": "Material icon add_to_photos"
+    },
+    "material icons: add_to_queue": {
+        "prefix": "mi:add_to_queue",
+        "body": "<i class=\"material-icons\">add_to_queue</i>",
+        "description": "Material icon add_to_queue"
+    },
+    "material icons: adjust": {
+        "prefix": "mi:adjust",
+        "body": "<i class=\"material-icons\">adjust</i>",
+        "description": "Material icon adjust"
+    },
+    "material icons: airline_seat_flat": {
+        "prefix": "mi:airline_seat_flat",
+        "body": "<i class=\"material-icons\">airline_seat_flat</i>",
+        "description": "Material icon airline_seat_flat"
+    },
+    "material icons: airline_seat_flat_angled": {
+        "prefix": "mi:airline_seat_flat_angled",
+        "body": "<i class=\"material-icons\">airline_seat_flat_angled</i>",
+        "description": "Material icon airline_seat_flat_angled"
+    },
+    "material icons: airline_seat_individual_suite": {
+        "prefix": "mi:airline_seat_individual_suite",
+        "body": "<i class=\"material-icons\">airline_seat_individual_suite</i>",
+        "description": "Material icon airline_seat_individual_suite"
+    },
+    "material icons: airline_seat_legroom_extra": {
+        "prefix": "mi:airline_seat_legroom_extra",
+        "body": "<i class=\"material-icons\">airline_seat_legroom_extra</i>",
+        "description": "Material icon airline_seat_legroom_extra"
+    },
+    "material icons: airline_seat_legroom_normal": {
+        "prefix": "mi:airline_seat_legroom_normal",
+        "body": "<i class=\"material-icons\">airline_seat_legroom_normal</i>",
+        "description": "Material icon airline_seat_legroom_normal"
+    },
+    "material icons: airline_seat_legroom_reduced": {
+        "prefix": "mi:airline_seat_legroom_reduced",
+        "body": "<i class=\"material-icons\">airline_seat_legroom_reduced</i>",
+        "description": "Material icon airline_seat_legroom_reduced"
+    },
+    "material icons: airline_seat_recline_extra": {
+        "prefix": "mi:airline_seat_recline_extra",
+        "body": "<i class=\"material-icons\">airline_seat_recline_extra</i>",
+        "description": "Material icon airline_seat_recline_extra"
+    },
+    "material icons: airline_seat_recline_normal": {
+        "prefix": "mi:airline_seat_recline_normal",
+        "body": "<i class=\"material-icons\">airline_seat_recline_normal</i>",
+        "description": "Material icon airline_seat_recline_normal"
+    },
+    "material icons: airplanemode_active": {
+        "prefix": "mi:airplanemode_active",
+        "body": "<i class=\"material-icons\">airplanemode_active</i>",
+        "description": "Material icon airplanemode_active"
+    },
+    "material icons: airplanemode_inactive": {
+        "prefix": "mi:airplanemode_inactive",
+        "body": "<i class=\"material-icons\">airplanemode_inactive</i>",
+        "description": "Material icon airplanemode_inactive"
+    },
+    "material icons: airplay": {
+        "prefix": "mi:airplay",
+        "body": "<i class=\"material-icons\">airplay</i>",
+        "description": "Material icon airplay"
+    },
+    "material icons: airport_shuttle": {
+        "prefix": "mi:airport_shuttle",
+        "body": "<i class=\"material-icons\">airport_shuttle</i>",
+        "description": "Material icon airport_shuttle"
+    },
+    "material icons: alarm": {
+        "prefix": "mi:alarm",
+        "body": "<i class=\"material-icons\">alarm</i>",
+        "description": "Material icon alarm"
+    },
+    "material icons: alarm_add": {
+        "prefix": "mi:alarm_add",
+        "body": "<i class=\"material-icons\">alarm_add</i>",
+        "description": "Material icon alarm_add"
+    },
+    "material icons: alarm_off": {
+        "prefix": "mi:alarm_off",
+        "body": "<i class=\"material-icons\">alarm_off</i>",
+        "description": "Material icon alarm_off"
+    },
+    "material icons: alarm_on": {
+        "prefix": "mi:alarm_on",
+        "body": "<i class=\"material-icons\">alarm_on</i>",
+        "description": "Material icon alarm_on"
+    },
+    "material icons: album": {
+        "prefix": "mi:album",
+        "body": "<i class=\"material-icons\">album</i>",
+        "description": "Material icon album"
+    },
+    "material icons: all_inclusive": {
+        "prefix": "mi:all_inclusive",
+        "body": "<i class=\"material-icons\">all_inclusive</i>",
+        "description": "Material icon all_inclusive"
+    },
+    "material icons: all_out": {
+        "prefix": "mi:all_out",
+        "body": "<i class=\"material-icons\">all_out</i>",
+        "description": "Material icon all_out"
+    },
+    "material icons: android": {
+        "prefix": "mi:android",
+        "body": "<i class=\"material-icons\">android</i>",
+        "description": "Material icon android"
+    },
+    "material icons: announcement": {
+        "prefix": "mi:announcement",
+        "body": "<i class=\"material-icons\">announcement</i>",
+        "description": "Material icon announcement"
+    },
+    "material icons: apps": {
+        "prefix": "mi:apps",
+        "body": "<i class=\"material-icons\">apps</i>",
+        "description": "Material icon apps"
+    },
+    "material icons: archive": {
+        "prefix": "mi:archive",
+        "body": "<i class=\"material-icons\">archive</i>",
+        "description": "Material icon archive"
+    },
+    "material icons: arrow_back": {
+        "prefix": "mi:arrow_back",
+        "body": "<i class=\"material-icons\">arrow_back</i>",
+        "description": "Material icon arrow_back"
+    },
+    "material icons: arrow_downward": {
+        "prefix": "mi:arrow_downward",
+        "body": "<i class=\"material-icons\">arrow_downward</i>",
+        "description": "Material icon arrow_downward"
+    },
+    "material icons: arrow_drop_down": {
+        "prefix": "mi:arrow_drop_down",
+        "body": "<i class=\"material-icons\">arrow_drop_down</i>",
+        "description": "Material icon arrow_drop_down"
+    },
+    "material icons: arrow_drop_down_circle": {
+        "prefix": "mi:arrow_drop_down_circle",
+        "body": "<i class=\"material-icons\">arrow_drop_down_circle</i>",
+        "description": "Material icon arrow_drop_down_circle"
+    },
+    "material icons: arrow_drop_up": {
+        "prefix": "mi:arrow_drop_up",
+        "body": "<i class=\"material-icons\">arrow_drop_up</i>",
+        "description": "Material icon arrow_drop_up"
+    },
+    "material icons: arrow_forward": {
+        "prefix": "mi:arrow_forward",
+        "body": "<i class=\"material-icons\">arrow_forward</i>",
+        "description": "Material icon arrow_forward"
+    },
+    "material icons: arrow_upward": {
+        "prefix": "mi:arrow_upward",
+        "body": "<i class=\"material-icons\">arrow_upward</i>",
+        "description": "Material icon arrow_upward"
+    },
+    "material icons: art_track": {
+        "prefix": "mi:art_track",
+        "body": "<i class=\"material-icons\">art_track</i>",
+        "description": "Material icon art_track"
+    },
+    "material icons: aspect_ratio": {
+        "prefix": "mi:aspect_ratio",
+        "body": "<i class=\"material-icons\">aspect_ratio</i>",
+        "description": "Material icon aspect_ratio"
+    },
+    "material icons: assessment": {
+        "prefix": "mi:assessment",
+        "body": "<i class=\"material-icons\">assessment</i>",
+        "description": "Material icon assessment"
+    },
+    "material icons: assignment": {
+        "prefix": "mi:assignment",
+        "body": "<i class=\"material-icons\">assignment</i>",
+        "description": "Material icon assignment"
+    },
+    "material icons: assignment_ind": {
+        "prefix": "mi:assignment_ind",
+        "body": "<i class=\"material-icons\">assignment_ind</i>",
+        "description": "Material icon assignment_ind"
+    },
+    "material icons: assignment_late": {
+        "prefix": "mi:assignment_late",
+        "body": "<i class=\"material-icons\">assignment_late</i>",
+        "description": "Material icon assignment_late"
+    },
+    "material icons: assignment_return": {
+        "prefix": "mi:assignment_return",
+        "body": "<i class=\"material-icons\">assignment_return</i>",
+        "description": "Material icon assignment_return"
+    },
+    "material icons: assignment_returned": {
+        "prefix": "mi:assignment_returned",
+        "body": "<i class=\"material-icons\">assignment_returned</i>",
+        "description": "Material icon assignment_returned"
+    },
+    "material icons: assignment_turned_in": {
+        "prefix": "mi:assignment_turned_in",
+        "body": "<i class=\"material-icons\">assignment_turned_in</i>",
+        "description": "Material icon assignment_turned_in"
+    },
+    "material icons: assistant": {
+        "prefix": "mi:assistant",
+        "body": "<i class=\"material-icons\">assistant</i>",
+        "description": "Material icon assistant"
+    },
+    "material icons: assistant_photo": {
+        "prefix": "mi:assistant_photo",
+        "body": "<i class=\"material-icons\">assistant_photo</i>",
+        "description": "Material icon assistant_photo"
+    },
+    "material icons: attach_file": {
+        "prefix": "mi:attach_file",
+        "body": "<i class=\"material-icons\">attach_file</i>",
+        "description": "Material icon attach_file"
+    },
+    "material icons: attach_money": {
+        "prefix": "mi:attach_money",
+        "body": "<i class=\"material-icons\">attach_money</i>",
+        "description": "Material icon attach_money"
+    },
+    "material icons: attachment": {
+        "prefix": "mi:attachment",
+        "body": "<i class=\"material-icons\">attachment</i>",
+        "description": "Material icon attachment"
+    },
+    "material icons: audiotrack": {
+        "prefix": "mi:audiotrack",
+        "body": "<i class=\"material-icons\">audiotrack</i>",
+        "description": "Material icon audiotrack"
+    },
+    "material icons: autorenew": {
+        "prefix": "mi:autorenew",
+        "body": "<i class=\"material-icons\">autorenew</i>",
+        "description": "Material icon autorenew"
+    },
+    "material icons: av_timer": {
+        "prefix": "mi:av_timer",
+        "body": "<i class=\"material-icons\">av_timer</i>",
+        "description": "Material icon av_timer"
+    },
+    "material icons: backspace": {
+        "prefix": "mi:backspace",
+        "body": "<i class=\"material-icons\">backspace</i>",
+        "description": "Material icon backspace"
+    },
+    "material icons: backup": {
+        "prefix": "mi:backup",
+        "body": "<i class=\"material-icons\">backup</i>",
+        "description": "Material icon backup"
+    },
+    "material icons: battery_alert": {
+        "prefix": "mi:battery_alert",
+        "body": "<i class=\"material-icons\">battery_alert</i>",
+        "description": "Material icon battery_alert"
+    },
+    "material icons: battery_charging_full": {
+        "prefix": "mi:battery_charging_full",
+        "body": "<i class=\"material-icons\">battery_charging_full</i>",
+        "description": "Material icon battery_charging_full"
+    },
+    "material icons: battery_full": {
+        "prefix": "mi:battery_full",
+        "body": "<i class=\"material-icons\">battery_full</i>",
+        "description": "Material icon battery_full"
+    },
+    "material icons: battery_std": {
+        "prefix": "mi:battery_std",
+        "body": "<i class=\"material-icons\">battery_std</i>",
+        "description": "Material icon battery_std"
+    },
+    "material icons: battery_unknown": {
+        "prefix": "mi:battery_unknown",
+        "body": "<i class=\"material-icons\">battery_unknown</i>",
+        "description": "Material icon battery_unknown"
+    },
+    "material icons: beach_access": {
+        "prefix": "mi:beach_access",
+        "body": "<i class=\"material-icons\">beach_access</i>",
+        "description": "Material icon beach_access"
+    },
+    "material icons: beenhere": {
+        "prefix": "mi:beenhere",
+        "body": "<i class=\"material-icons\">beenhere</i>",
+        "description": "Material icon beenhere"
+    },
+    "material icons: block": {
+        "prefix": "mi:block",
+        "body": "<i class=\"material-icons\">block</i>",
+        "description": "Material icon block"
+    },
+    "material icons: bluetooth": {
+        "prefix": "mi:bluetooth",
+        "body": "<i class=\"material-icons\">bluetooth</i>",
+        "description": "Material icon bluetooth"
+    },
+    "material icons: bluetooth_audio": {
+        "prefix": "mi:bluetooth_audio",
+        "body": "<i class=\"material-icons\">bluetooth_audio</i>",
+        "description": "Material icon bluetooth_audio"
+    },
+    "material icons: bluetooth_connected": {
+        "prefix": "mi:bluetooth_connected",
+        "body": "<i class=\"material-icons\">bluetooth_connected</i>",
+        "description": "Material icon bluetooth_connected"
+    },
+    "material icons: bluetooth_disabled": {
+        "prefix": "mi:bluetooth_disabled",
+        "body": "<i class=\"material-icons\">bluetooth_disabled</i>",
+        "description": "Material icon bluetooth_disabled"
+    },
+    "material icons: bluetooth_searching": {
+        "prefix": "mi:bluetooth_searching",
+        "body": "<i class=\"material-icons\">bluetooth_searching</i>",
+        "description": "Material icon bluetooth_searching"
+    },
+    "material icons: blur_circular": {
+        "prefix": "mi:blur_circular",
+        "body": "<i class=\"material-icons\">blur_circular</i>",
+        "description": "Material icon blur_circular"
+    },
+    "material icons: blur_linear": {
+        "prefix": "mi:blur_linear",
+        "body": "<i class=\"material-icons\">blur_linear</i>",
+        "description": "Material icon blur_linear"
+    },
+    "material icons: blur_off": {
+        "prefix": "mi:blur_off",
+        "body": "<i class=\"material-icons\">blur_off</i>",
+        "description": "Material icon blur_off"
+    },
+    "material icons: blur_on": {
+        "prefix": "mi:blur_on",
+        "body": "<i class=\"material-icons\">blur_on</i>",
+        "description": "Material icon blur_on"
+    },
+    "material icons: book": {
+        "prefix": "mi:book",
+        "body": "<i class=\"material-icons\">book</i>",
+        "description": "Material icon book"
+    },
+    "material icons: bookmark": {
+        "prefix": "mi:bookmark",
+        "body": "<i class=\"material-icons\">bookmark</i>",
+        "description": "Material icon bookmark"
+    },
+    "material icons: bookmark_border": {
+        "prefix": "mi:bookmark_border",
+        "body": "<i class=\"material-icons\">bookmark_border</i>",
+        "description": "Material icon bookmark_border"
+    },
+    "material icons: border_all": {
+        "prefix": "mi:border_all",
+        "body": "<i class=\"material-icons\">border_all</i>",
+        "description": "Material icon border_all"
+    },
+    "material icons: border_bottom": {
+        "prefix": "mi:border_bottom",
+        "body": "<i class=\"material-icons\">border_bottom</i>",
+        "description": "Material icon border_bottom"
+    },
+    "material icons: border_clear": {
+        "prefix": "mi:border_clear",
+        "body": "<i class=\"material-icons\">border_clear</i>",
+        "description": "Material icon border_clear"
+    },
+    "material icons: border_color": {
+        "prefix": "mi:border_color",
+        "body": "<i class=\"material-icons\">border_color</i>",
+        "description": "Material icon border_color"
+    },
+    "material icons: border_horizontal": {
+        "prefix": "mi:border_horizontal",
+        "body": "<i class=\"material-icons\">border_horizontal</i>",
+        "description": "Material icon border_horizontal"
+    },
+    "material icons: border_inner": {
+        "prefix": "mi:border_inner",
+        "body": "<i class=\"material-icons\">border_inner</i>",
+        "description": "Material icon border_inner"
+    },
+    "material icons: border_left": {
+        "prefix": "mi:border_left",
+        "body": "<i class=\"material-icons\">border_left</i>",
+        "description": "Material icon border_left"
+    },
+    "material icons: border_outer": {
+        "prefix": "mi:border_outer",
+        "body": "<i class=\"material-icons\">border_outer</i>",
+        "description": "Material icon border_outer"
+    },
+    "material icons: border_right": {
+        "prefix": "mi:border_right",
+        "body": "<i class=\"material-icons\">border_right</i>",
+        "description": "Material icon border_right"
+    },
+    "material icons: border_style": {
+        "prefix": "mi:border_style",
+        "body": "<i class=\"material-icons\">border_style</i>",
+        "description": "Material icon border_style"
+    },
+    "material icons: border_top": {
+        "prefix": "mi:border_top",
+        "body": "<i class=\"material-icons\">border_top</i>",
+        "description": "Material icon border_top"
+    },
+    "material icons: border_vertical": {
+        "prefix": "mi:border_vertical",
+        "body": "<i class=\"material-icons\">border_vertical</i>",
+        "description": "Material icon border_vertical"
+    },
+    "material icons: branding_watermark": {
+        "prefix": "mi:branding_watermark",
+        "body": "<i class=\"material-icons\">branding_watermark</i>",
+        "description": "Material icon branding_watermark"
+    },
+    "material icons: brightness_1": {
+        "prefix": "mi:brightness_1",
+        "body": "<i class=\"material-icons\">brightness_1</i>",
+        "description": "Material icon brightness_1"
+    },
+    "material icons: brightness_2": {
+        "prefix": "mi:brightness_2",
+        "body": "<i class=\"material-icons\">brightness_2</i>",
+        "description": "Material icon brightness_2"
+    },
+    "material icons: brightness_3": {
+        "prefix": "mi:brightness_3",
+        "body": "<i class=\"material-icons\">brightness_3</i>",
+        "description": "Material icon brightness_3"
+    },
+    "material icons: brightness_4": {
+        "prefix": "mi:brightness_4",
+        "body": "<i class=\"material-icons\">brightness_4</i>",
+        "description": "Material icon brightness_4"
+    },
+    "material icons: brightness_5": {
+        "prefix": "mi:brightness_5",
+        "body": "<i class=\"material-icons\">brightness_5</i>",
+        "description": "Material icon brightness_5"
+    },
+    "material icons: brightness_6": {
+        "prefix": "mi:brightness_6",
+        "body": "<i class=\"material-icons\">brightness_6</i>",
+        "description": "Material icon brightness_6"
+    },
+    "material icons: brightness_7": {
+        "prefix": "mi:brightness_7",
+        "body": "<i class=\"material-icons\">brightness_7</i>",
+        "description": "Material icon brightness_7"
+    },
+    "material icons: brightness_auto": {
+        "prefix": "mi:brightness_auto",
+        "body": "<i class=\"material-icons\">brightness_auto</i>",
+        "description": "Material icon brightness_auto"
+    },
+    "material icons: brightness_high": {
+        "prefix": "mi:brightness_high",
+        "body": "<i class=\"material-icons\">brightness_high</i>",
+        "description": "Material icon brightness_high"
+    },
+    "material icons: brightness_low": {
+        "prefix": "mi:brightness_low",
+        "body": "<i class=\"material-icons\">brightness_low</i>",
+        "description": "Material icon brightness_low"
+    },
+    "material icons: brightness_medium": {
+        "prefix": "mi:brightness_medium",
+        "body": "<i class=\"material-icons\">brightness_medium</i>",
+        "description": "Material icon brightness_medium"
+    },
+    "material icons: broken_image": {
+        "prefix": "mi:broken_image",
+        "body": "<i class=\"material-icons\">broken_image</i>",
+        "description": "Material icon broken_image"
+    },
+    "material icons: brush": {
+        "prefix": "mi:brush",
+        "body": "<i class=\"material-icons\">brush</i>",
+        "description": "Material icon brush"
+    },
+    "material icons: bubble_chart": {
+        "prefix": "mi:bubble_chart",
+        "body": "<i class=\"material-icons\">bubble_chart</i>",
+        "description": "Material icon bubble_chart"
+    },
+    "material icons: bug_report": {
+        "prefix": "mi:bug_report",
+        "body": "<i class=\"material-icons\">bug_report</i>",
+        "description": "Material icon bug_report"
+    },
+    "material icons: build": {
+        "prefix": "mi:build",
+        "body": "<i class=\"material-icons\">build</i>",
+        "description": "Material icon build"
+    },
+    "material icons: burst_mode": {
+        "prefix": "mi:burst_mode",
+        "body": "<i class=\"material-icons\">burst_mode</i>",
+        "description": "Material icon burst_mode"
+    },
+    "material icons: business": {
+        "prefix": "mi:business",
+        "body": "<i class=\"material-icons\">business</i>",
+        "description": "Material icon business"
+    },
+    "material icons: business_center": {
+        "prefix": "mi:business_center",
+        "body": "<i class=\"material-icons\">business_center</i>",
+        "description": "Material icon business_center"
+    },
+    "material icons: cached": {
+        "prefix": "mi:cached",
+        "body": "<i class=\"material-icons\">cached</i>",
+        "description": "Material icon cached"
+    },
+    "material icons: cake": {
+        "prefix": "mi:cake",
+        "body": "<i class=\"material-icons\">cake</i>",
+        "description": "Material icon cake"
+    },
+    "material icons: call": {
+        "prefix": "mi:call",
+        "body": "<i class=\"material-icons\">call</i>",
+        "description": "Material icon call"
+    },
+    "material icons: call_end": {
+        "prefix": "mi:call_end",
+        "body": "<i class=\"material-icons\">call_end</i>",
+        "description": "Material icon call_end"
+    },
+    "material icons: call_made": {
+        "prefix": "mi:call_made",
+        "body": "<i class=\"material-icons\">call_made</i>",
+        "description": "Material icon call_made"
+    },
+    "material icons: call_merge": {
+        "prefix": "mi:call_merge",
+        "body": "<i class=\"material-icons\">call_merge</i>",
+        "description": "Material icon call_merge"
+    },
+    "material icons: call_missed": {
+        "prefix": "mi:call_missed",
+        "body": "<i class=\"material-icons\">call_missed</i>",
+        "description": "Material icon call_missed"
+    },
+    "material icons: call_missed_outgoing": {
+        "prefix": "mi:call_missed_outgoing",
+        "body": "<i class=\"material-icons\">call_missed_outgoing</i>",
+        "description": "Material icon call_missed_outgoing"
+    },
+    "material icons: call_received": {
+        "prefix": "mi:call_received",
+        "body": "<i class=\"material-icons\">call_received</i>",
+        "description": "Material icon call_received"
+    },
+    "material icons: call_split": {
+        "prefix": "mi:call_split",
+        "body": "<i class=\"material-icons\">call_split</i>",
+        "description": "Material icon call_split"
+    },
+    "material icons: call_to_action": {
+        "prefix": "mi:call_to_action",
+        "body": "<i class=\"material-icons\">call_to_action</i>",
+        "description": "Material icon call_to_action"
+    },
+    "material icons: camera": {
+        "prefix": "mi:camera",
+        "body": "<i class=\"material-icons\">camera</i>",
+        "description": "Material icon camera"
+    },
+    "material icons: camera_alt": {
+        "prefix": "mi:camera_alt",
+        "body": "<i class=\"material-icons\">camera_alt</i>",
+        "description": "Material icon camera_alt"
+    },
+    "material icons: camera_enhance": {
+        "prefix": "mi:camera_enhance",
+        "body": "<i class=\"material-icons\">camera_enhance</i>",
+        "description": "Material icon camera_enhance"
+    },
+    "material icons: camera_front": {
+        "prefix": "mi:camera_front",
+        "body": "<i class=\"material-icons\">camera_front</i>",
+        "description": "Material icon camera_front"
+    },
+    "material icons: camera_rear": {
+        "prefix": "mi:camera_rear",
+        "body": "<i class=\"material-icons\">camera_rear</i>",
+        "description": "Material icon camera_rear"
+    },
+    "material icons: camera_roll": {
+        "prefix": "mi:camera_roll",
+        "body": "<i class=\"material-icons\">camera_roll</i>",
+        "description": "Material icon camera_roll"
+    },
+    "material icons: cancel": {
+        "prefix": "mi:cancel",
+        "body": "<i class=\"material-icons\">cancel</i>",
+        "description": "Material icon cancel"
+    },
+    "material icons: card_giftcard": {
+        "prefix": "mi:card_giftcard",
+        "body": "<i class=\"material-icons\">card_giftcard</i>",
+        "description": "Material icon card_giftcard"
+    },
+    "material icons: card_membership": {
+        "prefix": "mi:card_membership",
+        "body": "<i class=\"material-icons\">card_membership</i>",
+        "description": "Material icon card_membership"
+    },
+    "material icons: card_travel": {
+        "prefix": "mi:card_travel",
+        "body": "<i class=\"material-icons\">card_travel</i>",
+        "description": "Material icon card_travel"
+    },
+    "material icons: casino": {
+        "prefix": "mi:casino",
+        "body": "<i class=\"material-icons\">casino</i>",
+        "description": "Material icon casino"
+    },
+    "material icons: cast": {
+        "prefix": "mi:cast",
+        "body": "<i class=\"material-icons\">cast</i>",
+        "description": "Material icon cast"
+    },
+    "material icons: cast_connected": {
+        "prefix": "mi:cast_connected",
+        "body": "<i class=\"material-icons\">cast_connected</i>",
+        "description": "Material icon cast_connected"
+    },
+    "material icons: center_focus_strong": {
+        "prefix": "mi:center_focus_strong",
+        "body": "<i class=\"material-icons\">center_focus_strong</i>",
+        "description": "Material icon center_focus_strong"
+    },
+    "material icons: center_focus_weak": {
+        "prefix": "mi:center_focus_weak",
+        "body": "<i class=\"material-icons\">center_focus_weak</i>",
+        "description": "Material icon center_focus_weak"
+    },
+    "material icons: change_history": {
+        "prefix": "mi:change_history",
+        "body": "<i class=\"material-icons\">change_history</i>",
+        "description": "Material icon change_history"
+    },
+    "material icons: chat": {
+        "prefix": "mi:chat",
+        "body": "<i class=\"material-icons\">chat</i>",
+        "description": "Material icon chat"
+    },
+    "material icons: chat_bubble": {
+        "prefix": "mi:chat_bubble",
+        "body": "<i class=\"material-icons\">chat_bubble</i>",
+        "description": "Material icon chat_bubble"
+    },
+    "material icons: chat_bubble_outline": {
+        "prefix": "mi:chat_bubble_outline",
+        "body": "<i class=\"material-icons\">chat_bubble_outline</i>",
+        "description": "Material icon chat_bubble_outline"
+    },
+    "material icons: check": {
+        "prefix": "mi:check",
+        "body": "<i class=\"material-icons\">check</i>",
+        "description": "Material icon check"
+    },
+    "material icons: check_box": {
+        "prefix": "mi:check_box",
+        "body": "<i class=\"material-icons\">check_box</i>",
+        "description": "Material icon check_box"
+    },
+    "material icons: check_box_outline_blank": {
+        "prefix": "mi:check_box_outline_blank",
+        "body": "<i class=\"material-icons\">check_box_outline_blank</i>",
+        "description": "Material icon check_box_outline_blank"
+    },
+    "material icons: check_circle": {
+        "prefix": "mi:check_circle",
+        "body": "<i class=\"material-icons\">check_circle</i>",
+        "description": "Material icon check_circle"
+    },
+    "material icons: chevron_left": {
+        "prefix": "mi:chevron_left",
+        "body": "<i class=\"material-icons\">chevron_left</i>",
+        "description": "Material icon chevron_left"
+    },
+    "material icons: chevron_right": {
+        "prefix": "mi:chevron_right",
+        "body": "<i class=\"material-icons\">chevron_right</i>",
+        "description": "Material icon chevron_right"
+    },
+    "material icons: child_care": {
+        "prefix": "mi:child_care",
+        "body": "<i class=\"material-icons\">child_care</i>",
+        "description": "Material icon child_care"
+    },
+    "material icons: child_friendly": {
+        "prefix": "mi:child_friendly",
+        "body": "<i class=\"material-icons\">child_friendly</i>",
+        "description": "Material icon child_friendly"
+    },
+    "material icons: chrome_reader_mode": {
+        "prefix": "mi:chrome_reader_mode",
+        "body": "<i class=\"material-icons\">chrome_reader_mode</i>",
+        "description": "Material icon chrome_reader_mode"
+    },
+    "material icons: class": {
+        "prefix": "mi:class",
+        "body": "<i class=\"material-icons\">class</i>",
+        "description": "Material icon class"
+    },
+    "material icons: clear": {
+        "prefix": "mi:clear",
+        "body": "<i class=\"material-icons\">clear</i>",
+        "description": "Material icon clear"
+    },
+    "material icons: clear_all": {
+        "prefix": "mi:clear_all",
+        "body": "<i class=\"material-icons\">clear_all</i>",
+        "description": "Material icon clear_all"
+    },
+    "material icons: close": {
+        "prefix": "mi:close",
+        "body": "<i class=\"material-icons\">close</i>",
+        "description": "Material icon close"
+    },
+    "material icons: closed_caption": {
+        "prefix": "mi:closed_caption",
+        "body": "<i class=\"material-icons\">closed_caption</i>",
+        "description": "Material icon closed_caption"
+    },
+    "material icons: cloud": {
+        "prefix": "mi:cloud",
+        "body": "<i class=\"material-icons\">cloud</i>",
+        "description": "Material icon cloud"
+    },
+    "material icons: cloud_circle": {
+        "prefix": "mi:cloud_circle",
+        "body": "<i class=\"material-icons\">cloud_circle</i>",
+        "description": "Material icon cloud_circle"
+    },
+    "material icons: cloud_done": {
+        "prefix": "mi:cloud_done",
+        "body": "<i class=\"material-icons\">cloud_done</i>",
+        "description": "Material icon cloud_done"
+    },
+    "material icons: cloud_download": {
+        "prefix": "mi:cloud_download",
+        "body": "<i class=\"material-icons\">cloud_download</i>",
+        "description": "Material icon cloud_download"
+    },
+    "material icons: cloud_off": {
+        "prefix": "mi:cloud_off",
+        "body": "<i class=\"material-icons\">cloud_off</i>",
+        "description": "Material icon cloud_off"
+    },
+    "material icons: cloud_queue": {
+        "prefix": "mi:cloud_queue",
+        "body": "<i class=\"material-icons\">cloud_queue</i>",
+        "description": "Material icon cloud_queue"
+    },
+    "material icons: cloud_upload": {
+        "prefix": "mi:cloud_upload",
+        "body": "<i class=\"material-icons\">cloud_upload</i>",
+        "description": "Material icon cloud_upload"
+    },
+    "material icons: code": {
+        "prefix": "mi:code",
+        "body": "<i class=\"material-icons\">code</i>",
+        "description": "Material icon code"
+    },
+    "material icons: collections": {
+        "prefix": "mi:collections",
+        "body": "<i class=\"material-icons\">collections</i>",
+        "description": "Material icon collections"
+    },
+    "material icons: collections_bookmark": {
+        "prefix": "mi:collections_bookmark",
+        "body": "<i class=\"material-icons\">collections_bookmark</i>",
+        "description": "Material icon collections_bookmark"
+    },
+    "material icons: color_lens": {
+        "prefix": "mi:color_lens",
+        "body": "<i class=\"material-icons\">color_lens</i>",
+        "description": "Material icon color_lens"
+    },
+    "material icons: colorize": {
+        "prefix": "mi:colorize",
+        "body": "<i class=\"material-icons\">colorize</i>",
+        "description": "Material icon colorize"
+    },
+    "material icons: comment": {
+        "prefix": "mi:comment",
+        "body": "<i class=\"material-icons\">comment</i>",
+        "description": "Material icon comment"
+    },
+    "material icons: compare": {
+        "prefix": "mi:compare",
+        "body": "<i class=\"material-icons\">compare</i>",
+        "description": "Material icon compare"
+    },
+    "material icons: compare_arrows": {
+        "prefix": "mi:compare_arrows",
+        "body": "<i class=\"material-icons\">compare_arrows</i>",
+        "description": "Material icon compare_arrows"
+    },
+    "material icons: computer": {
+        "prefix": "mi:computer",
+        "body": "<i class=\"material-icons\">computer</i>",
+        "description": "Material icon computer"
+    },
+    "material icons: confirmation_number": {
+        "prefix": "mi:confirmation_number",
+        "body": "<i class=\"material-icons\">confirmation_number</i>",
+        "description": "Material icon confirmation_number"
+    },
+    "material icons: contact_mail": {
+        "prefix": "mi:contact_mail",
+        "body": "<i class=\"material-icons\">contact_mail</i>",
+        "description": "Material icon contact_mail"
+    },
+    "material icons: contact_phone": {
+        "prefix": "mi:contact_phone",
+        "body": "<i class=\"material-icons\">contact_phone</i>",
+        "description": "Material icon contact_phone"
+    },
+    "material icons: contacts": {
+        "prefix": "mi:contacts",
+        "body": "<i class=\"material-icons\">contacts</i>",
+        "description": "Material icon contacts"
+    },
+    "material icons: content_copy": {
+        "prefix": "mi:content_copy",
+        "body": "<i class=\"material-icons\">content_copy</i>",
+        "description": "Material icon content_copy"
+    },
+    "material icons: content_cut": {
+        "prefix": "mi:content_cut",
+        "body": "<i class=\"material-icons\">content_cut</i>",
+        "description": "Material icon content_cut"
+    },
+    "material icons: content_paste": {
+        "prefix": "mi:content_paste",
+        "body": "<i class=\"material-icons\">content_paste</i>",
+        "description": "Material icon content_paste"
+    },
+    "material icons: control_point": {
+        "prefix": "mi:control_point",
+        "body": "<i class=\"material-icons\">control_point</i>",
+        "description": "Material icon control_point"
+    },
+    "material icons: control_point_duplicate": {
+        "prefix": "mi:control_point_duplicate",
+        "body": "<i class=\"material-icons\">control_point_duplicate</i>",
+        "description": "Material icon control_point_duplicate"
+    },
+    "material icons: copyright": {
+        "prefix": "mi:copyright",
+        "body": "<i class=\"material-icons\">copyright</i>",
+        "description": "Material icon copyright"
+    },
+    "material icons: create": {
+        "prefix": "mi:create",
+        "body": "<i class=\"material-icons\">create</i>",
+        "description": "Material icon create"
+    },
+    "material icons: create_new_folder": {
+        "prefix": "mi:create_new_folder",
+        "body": "<i class=\"material-icons\">create_new_folder</i>",
+        "description": "Material icon create_new_folder"
+    },
+    "material icons: credit_card": {
+        "prefix": "mi:credit_card",
+        "body": "<i class=\"material-icons\">credit_card</i>",
+        "description": "Material icon credit_card"
+    },
+    "material icons: crop": {
+        "prefix": "mi:crop",
+        "body": "<i class=\"material-icons\">crop</i>",
+        "description": "Material icon crop"
+    },
+    "material icons: crop_16_9": {
+        "prefix": "mi:crop_16_9",
+        "body": "<i class=\"material-icons\">crop_16_9</i>",
+        "description": "Material icon crop_16_9"
+    },
+    "material icons: crop_3_2": {
+        "prefix": "mi:crop_3_2",
+        "body": "<i class=\"material-icons\">crop_3_2</i>",
+        "description": "Material icon crop_3_2"
+    },
+    "material icons: crop_5_4": {
+        "prefix": "mi:crop_5_4",
+        "body": "<i class=\"material-icons\">crop_5_4</i>",
+        "description": "Material icon crop_5_4"
+    },
+    "material icons: crop_7_5": {
+        "prefix": "mi:crop_7_5",
+        "body": "<i class=\"material-icons\">crop_7_5</i>",
+        "description": "Material icon crop_7_5"
+    },
+    "material icons: crop_din": {
+        "prefix": "mi:crop_din",
+        "body": "<i class=\"material-icons\">crop_din</i>",
+        "description": "Material icon crop_din"
+    },
+    "material icons: crop_free": {
+        "prefix": "mi:crop_free",
+        "body": "<i class=\"material-icons\">crop_free</i>",
+        "description": "Material icon crop_free"
+    },
+    "material icons: crop_landscape": {
+        "prefix": "mi:crop_landscape",
+        "body": "<i class=\"material-icons\">crop_landscape</i>",
+        "description": "Material icon crop_landscape"
+    },
+    "material icons: crop_original": {
+        "prefix": "mi:crop_original",
+        "body": "<i class=\"material-icons\">crop_original</i>",
+        "description": "Material icon crop_original"
+    },
+    "material icons: crop_portrait": {
+        "prefix": "mi:crop_portrait",
+        "body": "<i class=\"material-icons\">crop_portrait</i>",
+        "description": "Material icon crop_portrait"
+    },
+    "material icons: crop_rotate": {
+        "prefix": "mi:crop_rotate",
+        "body": "<i class=\"material-icons\">crop_rotate</i>",
+        "description": "Material icon crop_rotate"
+    },
+    "material icons: crop_square": {
+        "prefix": "mi:crop_square",
+        "body": "<i class=\"material-icons\">crop_square</i>",
+        "description": "Material icon crop_square"
+    },
+    "material icons: dashboard": {
+        "prefix": "mi:dashboard",
+        "body": "<i class=\"material-icons\">dashboard</i>",
+        "description": "Material icon dashboard"
+    },
+    "material icons: data_usage": {
+        "prefix": "mi:data_usage",
+        "body": "<i class=\"material-icons\">data_usage</i>",
+        "description": "Material icon data_usage"
+    },
+    "material icons: date_range": {
+        "prefix": "mi:date_range",
+        "body": "<i class=\"material-icons\">date_range</i>",
+        "description": "Material icon date_range"
+    },
+    "material icons: dehaze": {
+        "prefix": "mi:dehaze",
+        "body": "<i class=\"material-icons\">dehaze</i>",
+        "description": "Material icon dehaze"
+    },
+    "material icons: delete": {
+        "prefix": "mi:delete",
+        "body": "<i class=\"material-icons\">delete</i>",
+        "description": "Material icon delete"
+    },
+    "material icons: delete_forever": {
+        "prefix": "mi:delete_forever",
+        "body": "<i class=\"material-icons\">delete_forever</i>",
+        "description": "Material icon delete_forever"
+    },
+    "material icons: delete_sweep": {
+        "prefix": "mi:delete_sweep",
+        "body": "<i class=\"material-icons\">delete_sweep</i>",
+        "description": "Material icon delete_sweep"
+    },
+    "material icons: description": {
+        "prefix": "mi:description",
+        "body": "<i class=\"material-icons\">description</i>",
+        "description": "Material icon description"
+    },
+    "material icons: desktop_mac": {
+        "prefix": "mi:desktop_mac",
+        "body": "<i class=\"material-icons\">desktop_mac</i>",
+        "description": "Material icon desktop_mac"
+    },
+    "material icons: desktop_windows": {
+        "prefix": "mi:desktop_windows",
+        "body": "<i class=\"material-icons\">desktop_windows</i>",
+        "description": "Material icon desktop_windows"
+    },
+    "material icons: details": {
+        "prefix": "mi:details",
+        "body": "<i class=\"material-icons\">details</i>",
+        "description": "Material icon details"
+    },
+    "material icons: developer_board": {
+        "prefix": "mi:developer_board",
+        "body": "<i class=\"material-icons\">developer_board</i>",
+        "description": "Material icon developer_board"
+    },
+    "material icons: developer_mode": {
+        "prefix": "mi:developer_mode",
+        "body": "<i class=\"material-icons\">developer_mode</i>",
+        "description": "Material icon developer_mode"
+    },
+    "material icons: device_hub": {
+        "prefix": "mi:device_hub",
+        "body": "<i class=\"material-icons\">device_hub</i>",
+        "description": "Material icon device_hub"
+    },
+    "material icons: devices": {
+        "prefix": "mi:devices",
+        "body": "<i class=\"material-icons\">devices</i>",
+        "description": "Material icon devices"
+    },
+    "material icons: devices_other": {
+        "prefix": "mi:devices_other",
+        "body": "<i class=\"material-icons\">devices_other</i>",
+        "description": "Material icon devices_other"
+    },
+    "material icons: dialer_sip": {
+        "prefix": "mi:dialer_sip",
+        "body": "<i class=\"material-icons\">dialer_sip</i>",
+        "description": "Material icon dialer_sip"
+    },
+    "material icons: dialpad": {
+        "prefix": "mi:dialpad",
+        "body": "<i class=\"material-icons\">dialpad</i>",
+        "description": "Material icon dialpad"
+    },
+    "material icons: directions": {
+        "prefix": "mi:directions",
+        "body": "<i class=\"material-icons\">directions</i>",
+        "description": "Material icon directions"
+    },
+    "material icons: directions_bike": {
+        "prefix": "mi:directions_bike",
+        "body": "<i class=\"material-icons\">directions_bike</i>",
+        "description": "Material icon directions_bike"
+    },
+    "material icons: directions_boat": {
+        "prefix": "mi:directions_boat",
+        "body": "<i class=\"material-icons\">directions_boat</i>",
+        "description": "Material icon directions_boat"
+    },
+    "material icons: directions_bus": {
+        "prefix": "mi:directions_bus",
+        "body": "<i class=\"material-icons\">directions_bus</i>",
+        "description": "Material icon directions_bus"
+    },
+    "material icons: directions_car": {
+        "prefix": "mi:directions_car",
+        "body": "<i class=\"material-icons\">directions_car</i>",
+        "description": "Material icon directions_car"
+    },
+    "material icons: directions_railway": {
+        "prefix": "mi:directions_railway",
+        "body": "<i class=\"material-icons\">directions_railway</i>",
+        "description": "Material icon directions_railway"
+    },
+    "material icons: directions_run": {
+        "prefix": "mi:directions_run",
+        "body": "<i class=\"material-icons\">directions_run</i>",
+        "description": "Material icon directions_run"
+    },
+    "material icons: directions_subway": {
+        "prefix": "mi:directions_subway",
+        "body": "<i class=\"material-icons\">directions_subway</i>",
+        "description": "Material icon directions_subway"
+    },
+    "material icons: directions_transit": {
+        "prefix": "mi:directions_transit",
+        "body": "<i class=\"material-icons\">directions_transit</i>",
+        "description": "Material icon directions_transit"
+    },
+    "material icons: directions_walk": {
+        "prefix": "mi:directions_walk",
+        "body": "<i class=\"material-icons\">directions_walk</i>",
+        "description": "Material icon directions_walk"
+    },
+    "material icons: disc_full": {
+        "prefix": "mi:disc_full",
+        "body": "<i class=\"material-icons\">disc_full</i>",
+        "description": "Material icon disc_full"
+    },
+    "material icons: dns": {
+        "prefix": "mi:dns",
+        "body": "<i class=\"material-icons\">dns</i>",
+        "description": "Material icon dns"
+    },
+    "material icons: do_not_disturb": {
+        "prefix": "mi:do_not_disturb",
+        "body": "<i class=\"material-icons\">do_not_disturb</i>",
+        "description": "Material icon do_not_disturb"
+    },
+    "material icons: do_not_disturb_alt": {
+        "prefix": "mi:do_not_disturb_alt",
+        "body": "<i class=\"material-icons\">do_not_disturb_alt</i>",
+        "description": "Material icon do_not_disturb_alt"
+    },
+    "material icons: do_not_disturb_off": {
+        "prefix": "mi:do_not_disturb_off",
+        "body": "<i class=\"material-icons\">do_not_disturb_off</i>",
+        "description": "Material icon do_not_disturb_off"
+    },
+    "material icons: do_not_disturb_on": {
+        "prefix": "mi:do_not_disturb_on",
+        "body": "<i class=\"material-icons\">do_not_disturb_on</i>",
+        "description": "Material icon do_not_disturb_on"
+    },
+    "material icons: dock": {
+        "prefix": "mi:dock",
+        "body": "<i class=\"material-icons\">dock</i>",
+        "description": "Material icon dock"
+    },
+    "material icons: domain": {
+        "prefix": "mi:domain",
+        "body": "<i class=\"material-icons\">domain</i>",
+        "description": "Material icon domain"
+    },
+    "material icons: done": {
+        "prefix": "mi:done",
+        "body": "<i class=\"material-icons\">done</i>",
+        "description": "Material icon done"
+    },
+    "material icons: done_all": {
+        "prefix": "mi:done_all",
+        "body": "<i class=\"material-icons\">done_all</i>",
+        "description": "Material icon done_all"
+    },
+    "material icons: donut_large": {
+        "prefix": "mi:donut_large",
+        "body": "<i class=\"material-icons\">donut_large</i>",
+        "description": "Material icon donut_large"
+    },
+    "material icons: donut_small": {
+        "prefix": "mi:donut_small",
+        "body": "<i class=\"material-icons\">donut_small</i>",
+        "description": "Material icon donut_small"
+    },
+    "material icons: drafts": {
+        "prefix": "mi:drafts",
+        "body": "<i class=\"material-icons\">drafts</i>",
+        "description": "Material icon drafts"
+    },
+    "material icons: drag_handle": {
+        "prefix": "mi:drag_handle",
+        "body": "<i class=\"material-icons\">drag_handle</i>",
+        "description": "Material icon drag_handle"
+    },
+    "material icons: drive_eta": {
+        "prefix": "mi:drive_eta",
+        "body": "<i class=\"material-icons\">drive_eta</i>",
+        "description": "Material icon drive_eta"
+    },
+    "material icons: dvr": {
+        "prefix": "mi:dvr",
+        "body": "<i class=\"material-icons\">dvr</i>",
+        "description": "Material icon dvr"
+    },
+    "material icons: edit": {
+        "prefix": "mi:edit",
+        "body": "<i class=\"material-icons\">edit</i>",
+        "description": "Material icon edit"
+    },
+    "material icons: edit_location": {
+        "prefix": "mi:edit_location",
+        "body": "<i class=\"material-icons\">edit_location</i>",
+        "description": "Material icon edit_location"
+    },
+    "material icons: eject": {
+        "prefix": "mi:eject",
+        "body": "<i class=\"material-icons\">eject</i>",
+        "description": "Material icon eject"
+    },
+    "material icons: email": {
+        "prefix": "mi:email",
+        "body": "<i class=\"material-icons\">email</i>",
+        "description": "Material icon email"
+    },
+    "material icons: enhanced_encryption": {
+        "prefix": "mi:enhanced_encryption",
+        "body": "<i class=\"material-icons\">enhanced_encryption</i>",
+        "description": "Material icon enhanced_encryption"
+    },
+    "material icons: equalizer": {
+        "prefix": "mi:equalizer",
+        "body": "<i class=\"material-icons\">equalizer</i>",
+        "description": "Material icon equalizer"
+    },
+    "material icons: error": {
+        "prefix": "mi:error",
+        "body": "<i class=\"material-icons\">error</i>",
+        "description": "Material icon error"
+    },
+    "material icons: error_outline": {
+        "prefix": "mi:error_outline",
+        "body": "<i class=\"material-icons\">error_outline</i>",
+        "description": "Material icon error_outline"
+    },
+    "material icons: euro_symbol": {
+        "prefix": "mi:euro_symbol",
+        "body": "<i class=\"material-icons\">euro_symbol</i>",
+        "description": "Material icon euro_symbol"
+    },
+    "material icons: ev_station": {
+        "prefix": "mi:ev_station",
+        "body": "<i class=\"material-icons\">ev_station</i>",
+        "description": "Material icon ev_station"
+    },
+    "material icons: event": {
+        "prefix": "mi:event",
+        "body": "<i class=\"material-icons\">event</i>",
+        "description": "Material icon event"
+    },
+    "material icons: event_available": {
+        "prefix": "mi:event_available",
+        "body": "<i class=\"material-icons\">event_available</i>",
+        "description": "Material icon event_available"
+    },
+    "material icons: event_busy": {
+        "prefix": "mi:event_busy",
+        "body": "<i class=\"material-icons\">event_busy</i>",
+        "description": "Material icon event_busy"
+    },
+    "material icons: event_note": {
+        "prefix": "mi:event_note",
+        "body": "<i class=\"material-icons\">event_note</i>",
+        "description": "Material icon event_note"
+    },
+    "material icons: event_seat": {
+        "prefix": "mi:event_seat",
+        "body": "<i class=\"material-icons\">event_seat</i>",
+        "description": "Material icon event_seat"
+    },
+    "material icons: exit_to_app": {
+        "prefix": "mi:exit_to_app",
+        "body": "<i class=\"material-icons\">exit_to_app</i>",
+        "description": "Material icon exit_to_app"
+    },
+    "material icons: expand_less": {
+        "prefix": "mi:expand_less",
+        "body": "<i class=\"material-icons\">expand_less</i>",
+        "description": "Material icon expand_less"
+    },
+    "material icons: expand_more": {
+        "prefix": "mi:expand_more",
+        "body": "<i class=\"material-icons\">expand_more</i>",
+        "description": "Material icon expand_more"
+    },
+    "material icons: explicit": {
+        "prefix": "mi:explicit",
+        "body": "<i class=\"material-icons\">explicit</i>",
+        "description": "Material icon explicit"
+    },
+    "material icons: explore": {
+        "prefix": "mi:explore",
+        "body": "<i class=\"material-icons\">explore</i>",
+        "description": "Material icon explore"
+    },
+    "material icons: exposure": {
+        "prefix": "mi:exposure",
+        "body": "<i class=\"material-icons\">exposure</i>",
+        "description": "Material icon exposure"
+    },
+    "material icons: exposure_neg_1": {
+        "prefix": "mi:exposure_neg_1",
+        "body": "<i class=\"material-icons\">exposure_neg_1</i>",
+        "description": "Material icon exposure_neg_1"
+    },
+    "material icons: exposure_neg_2": {
+        "prefix": "mi:exposure_neg_2",
+        "body": "<i class=\"material-icons\">exposure_neg_2</i>",
+        "description": "Material icon exposure_neg_2"
+    },
+    "material icons: exposure_plus_1": {
+        "prefix": "mi:exposure_plus_1",
+        "body": "<i class=\"material-icons\">exposure_plus_1</i>",
+        "description": "Material icon exposure_plus_1"
+    },
+    "material icons: exposure_plus_2": {
+        "prefix": "mi:exposure_plus_2",
+        "body": "<i class=\"material-icons\">exposure_plus_2</i>",
+        "description": "Material icon exposure_plus_2"
+    },
+    "material icons: exposure_zero": {
+        "prefix": "mi:exposure_zero",
+        "body": "<i class=\"material-icons\">exposure_zero</i>",
+        "description": "Material icon exposure_zero"
+    },
+    "material icons: extension": {
+        "prefix": "mi:extension",
+        "body": "<i class=\"material-icons\">extension</i>",
+        "description": "Material icon extension"
+    },
+    "material icons: face": {
+        "prefix": "mi:face",
+        "body": "<i class=\"material-icons\">face</i>",
+        "description": "Material icon face"
+    },
+    "material icons: fast_forward": {
+        "prefix": "mi:fast_forward",
+        "body": "<i class=\"material-icons\">fast_forward</i>",
+        "description": "Material icon fast_forward"
+    },
+    "material icons: fast_rewind": {
+        "prefix": "mi:fast_rewind",
+        "body": "<i class=\"material-icons\">fast_rewind</i>",
+        "description": "Material icon fast_rewind"
+    },
+    "material icons: favorite": {
+        "prefix": "mi:favorite",
+        "body": "<i class=\"material-icons\">favorite</i>",
+        "description": "Material icon favorite"
+    },
+    "material icons: favorite_border": {
+        "prefix": "mi:favorite_border",
+        "body": "<i class=\"material-icons\">favorite_border</i>",
+        "description": "Material icon favorite_border"
+    },
+    "material icons: featured_play_list": {
+        "prefix": "mi:featured_play_list",
+        "body": "<i class=\"material-icons\">featured_play_list</i>",
+        "description": "Material icon featured_play_list"
+    },
+    "material icons: featured_video": {
+        "prefix": "mi:featured_video",
+        "body": "<i class=\"material-icons\">featured_video</i>",
+        "description": "Material icon featured_video"
+    },
+    "material icons: feedback": {
+        "prefix": "mi:feedback",
+        "body": "<i class=\"material-icons\">feedback</i>",
+        "description": "Material icon feedback"
+    },
+    "material icons: fiber_dvr": {
+        "prefix": "mi:fiber_dvr",
+        "body": "<i class=\"material-icons\">fiber_dvr</i>",
+        "description": "Material icon fiber_dvr"
+    },
+    "material icons: fiber_manual_record": {
+        "prefix": "mi:fiber_manual_record",
+        "body": "<i class=\"material-icons\">fiber_manual_record</i>",
+        "description": "Material icon fiber_manual_record"
+    },
+    "material icons: fiber_new": {
+        "prefix": "mi:fiber_new",
+        "body": "<i class=\"material-icons\">fiber_new</i>",
+        "description": "Material icon fiber_new"
+    },
+    "material icons: fiber_pin": {
+        "prefix": "mi:fiber_pin",
+        "body": "<i class=\"material-icons\">fiber_pin</i>",
+        "description": "Material icon fiber_pin"
+    },
+    "material icons: fiber_smart_record": {
+        "prefix": "mi:fiber_smart_record",
+        "body": "<i class=\"material-icons\">fiber_smart_record</i>",
+        "description": "Material icon fiber_smart_record"
+    },
+    "material icons: file_download": {
+        "prefix": "mi:file_download",
+        "body": "<i class=\"material-icons\">file_download</i>",
+        "description": "Material icon file_download"
+    },
+    "material icons: file_upload": {
+        "prefix": "mi:file_upload",
+        "body": "<i class=\"material-icons\">file_upload</i>",
+        "description": "Material icon file_upload"
+    },
+    "material icons: filter": {
+        "prefix": "mi:filter",
+        "body": "<i class=\"material-icons\">filter</i>",
+        "description": "Material icon filter"
+    },
+    "material icons: filter_1": {
+        "prefix": "mi:filter_1",
+        "body": "<i class=\"material-icons\">filter_1</i>",
+        "description": "Material icon filter_1"
+    },
+    "material icons: filter_2": {
+        "prefix": "mi:filter_2",
+        "body": "<i class=\"material-icons\">filter_2</i>",
+        "description": "Material icon filter_2"
+    },
+    "material icons: filter_3": {
+        "prefix": "mi:filter_3",
+        "body": "<i class=\"material-icons\">filter_3</i>",
+        "description": "Material icon filter_3"
+    },
+    "material icons: filter_4": {
+        "prefix": "mi:filter_4",
+        "body": "<i class=\"material-icons\">filter_4</i>",
+        "description": "Material icon filter_4"
+    },
+    "material icons: filter_5": {
+        "prefix": "mi:filter_5",
+        "body": "<i class=\"material-icons\">filter_5</i>",
+        "description": "Material icon filter_5"
+    },
+    "material icons: filter_6": {
+        "prefix": "mi:filter_6",
+        "body": "<i class=\"material-icons\">filter_6</i>",
+        "description": "Material icon filter_6"
+    },
+    "material icons: filter_7": {
+        "prefix": "mi:filter_7",
+        "body": "<i class=\"material-icons\">filter_7</i>",
+        "description": "Material icon filter_7"
+    },
+    "material icons: filter_8": {
+        "prefix": "mi:filter_8",
+        "body": "<i class=\"material-icons\">filter_8</i>",
+        "description": "Material icon filter_8"
+    },
+    "material icons: filter_9": {
+        "prefix": "mi:filter_9",
+        "body": "<i class=\"material-icons\">filter_9</i>",
+        "description": "Material icon filter_9"
+    },
+    "material icons: filter_9_plus": {
+        "prefix": "mi:filter_9_plus",
+        "body": "<i class=\"material-icons\">filter_9_plus</i>",
+        "description": "Material icon filter_9_plus"
+    },
+    "material icons: filter_b_and_w": {
+        "prefix": "mi:filter_b_and_w",
+        "body": "<i class=\"material-icons\">filter_b_and_w</i>",
+        "description": "Material icon filter_b_and_w"
+    },
+    "material icons: filter_center_focus": {
+        "prefix": "mi:filter_center_focus",
+        "body": "<i class=\"material-icons\">filter_center_focus</i>",
+        "description": "Material icon filter_center_focus"
+    },
+    "material icons: filter_drama": {
+        "prefix": "mi:filter_drama",
+        "body": "<i class=\"material-icons\">filter_drama</i>",
+        "description": "Material icon filter_drama"
+    },
+    "material icons: filter_frames": {
+        "prefix": "mi:filter_frames",
+        "body": "<i class=\"material-icons\">filter_frames</i>",
+        "description": "Material icon filter_frames"
+    },
+    "material icons: filter_hdr": {
+        "prefix": "mi:filter_hdr",
+        "body": "<i class=\"material-icons\">filter_hdr</i>",
+        "description": "Material icon filter_hdr"
+    },
+    "material icons: filter_list": {
+        "prefix": "mi:filter_list",
+        "body": "<i class=\"material-icons\">filter_list</i>",
+        "description": "Material icon filter_list"
+    },
+    "material icons: filter_none": {
+        "prefix": "mi:filter_none",
+        "body": "<i class=\"material-icons\">filter_none</i>",
+        "description": "Material icon filter_none"
+    },
+    "material icons: filter_tilt_shift": {
+        "prefix": "mi:filter_tilt_shift",
+        "body": "<i class=\"material-icons\">filter_tilt_shift</i>",
+        "description": "Material icon filter_tilt_shift"
+    },
+    "material icons: filter_vintage": {
+        "prefix": "mi:filter_vintage",
+        "body": "<i class=\"material-icons\">filter_vintage</i>",
+        "description": "Material icon filter_vintage"
+    },
+    "material icons: find_in_page": {
+        "prefix": "mi:find_in_page",
+        "body": "<i class=\"material-icons\">find_in_page</i>",
+        "description": "Material icon find_in_page"
+    },
+    "material icons: find_replace": {
+        "prefix": "mi:find_replace",
+        "body": "<i class=\"material-icons\">find_replace</i>",
+        "description": "Material icon find_replace"
+    },
+    "material icons: fingerprint": {
+        "prefix": "mi:fingerprint",
+        "body": "<i class=\"material-icons\">fingerprint</i>",
+        "description": "Material icon fingerprint"
+    },
+    "material icons: first_page": {
+        "prefix": "mi:first_page",
+        "body": "<i class=\"material-icons\">first_page</i>",
+        "description": "Material icon first_page"
+    },
+    "material icons: fitness_center": {
+        "prefix": "mi:fitness_center",
+        "body": "<i class=\"material-icons\">fitness_center</i>",
+        "description": "Material icon fitness_center"
+    },
+    "material icons: flag": {
+        "prefix": "mi:flag",
+        "body": "<i class=\"material-icons\">flag</i>",
+        "description": "Material icon flag"
+    },
+    "material icons: flare": {
+        "prefix": "mi:flare",
+        "body": "<i class=\"material-icons\">flare</i>",
+        "description": "Material icon flare"
+    },
+    "material icons: flash_auto": {
+        "prefix": "mi:flash_auto",
+        "body": "<i class=\"material-icons\">flash_auto</i>",
+        "description": "Material icon flash_auto"
+    },
+    "material icons: flash_off": {
+        "prefix": "mi:flash_off",
+        "body": "<i class=\"material-icons\">flash_off</i>",
+        "description": "Material icon flash_off"
+    },
+    "material icons: flash_on": {
+        "prefix": "mi:flash_on",
+        "body": "<i class=\"material-icons\">flash_on</i>",
+        "description": "Material icon flash_on"
+    },
+    "material icons: flight": {
+        "prefix": "mi:flight",
+        "body": "<i class=\"material-icons\">flight</i>",
+        "description": "Material icon flight"
+    },
+    "material icons: flight_land": {
+        "prefix": "mi:flight_land",
+        "body": "<i class=\"material-icons\">flight_land</i>",
+        "description": "Material icon flight_land"
+    },
+    "material icons: flight_takeoff": {
+        "prefix": "mi:flight_takeoff",
+        "body": "<i class=\"material-icons\">flight_takeoff</i>",
+        "description": "Material icon flight_takeoff"
+    },
+    "material icons: flip": {
+        "prefix": "mi:flip",
+        "body": "<i class=\"material-icons\">flip</i>",
+        "description": "Material icon flip"
+    },
+    "material icons: flip_to_back": {
+        "prefix": "mi:flip_to_back",
+        "body": "<i class=\"material-icons\">flip_to_back</i>",
+        "description": "Material icon flip_to_back"
+    },
+    "material icons: flip_to_front": {
+        "prefix": "mi:flip_to_front",
+        "body": "<i class=\"material-icons\">flip_to_front</i>",
+        "description": "Material icon flip_to_front"
+    },
+    "material icons: folder": {
+        "prefix": "mi:folder",
+        "body": "<i class=\"material-icons\">folder</i>",
+        "description": "Material icon folder"
+    },
+    "material icons: folder_open": {
+        "prefix": "mi:folder_open",
+        "body": "<i class=\"material-icons\">folder_open</i>",
+        "description": "Material icon folder_open"
+    },
+    "material icons: folder_shared": {
+        "prefix": "mi:folder_shared",
+        "body": "<i class=\"material-icons\">folder_shared</i>",
+        "description": "Material icon folder_shared"
+    },
+    "material icons: folder_special": {
+        "prefix": "mi:folder_special",
+        "body": "<i class=\"material-icons\">folder_special</i>",
+        "description": "Material icon folder_special"
+    },
+    "material icons: font_download": {
+        "prefix": "mi:font_download",
+        "body": "<i class=\"material-icons\">font_download</i>",
+        "description": "Material icon font_download"
+    },
+    "material icons: format_align_center": {
+        "prefix": "mi:format_align_center",
+        "body": "<i class=\"material-icons\">format_align_center</i>",
+        "description": "Material icon format_align_center"
+    },
+    "material icons: format_align_justify": {
+        "prefix": "mi:format_align_justify",
+        "body": "<i class=\"material-icons\">format_align_justify</i>",
+        "description": "Material icon format_align_justify"
+    },
+    "material icons: format_align_left": {
+        "prefix": "mi:format_align_left",
+        "body": "<i class=\"material-icons\">format_align_left</i>",
+        "description": "Material icon format_align_left"
+    },
+    "material icons: format_align_right": {
+        "prefix": "mi:format_align_right",
+        "body": "<i class=\"material-icons\">format_align_right</i>",
+        "description": "Material icon format_align_right"
+    },
+    "material icons: format_bold": {
+        "prefix": "mi:format_bold",
+        "body": "<i class=\"material-icons\">format_bold</i>",
+        "description": "Material icon format_bold"
+    },
+    "material icons: format_clear": {
+        "prefix": "mi:format_clear",
+        "body": "<i class=\"material-icons\">format_clear</i>",
+        "description": "Material icon format_clear"
+    },
+    "material icons: format_color_fill": {
+        "prefix": "mi:format_color_fill",
+        "body": "<i class=\"material-icons\">format_color_fill</i>",
+        "description": "Material icon format_color_fill"
+    },
+    "material icons: format_color_reset": {
+        "prefix": "mi:format_color_reset",
+        "body": "<i class=\"material-icons\">format_color_reset</i>",
+        "description": "Material icon format_color_reset"
+    },
+    "material icons: format_color_text": {
+        "prefix": "mi:format_color_text",
+        "body": "<i class=\"material-icons\">format_color_text</i>",
+        "description": "Material icon format_color_text"
+    },
+    "material icons: format_indent_decrease": {
+        "prefix": "mi:format_indent_decrease",
+        "body": "<i class=\"material-icons\">format_indent_decrease</i>",
+        "description": "Material icon format_indent_decrease"
+    },
+    "material icons: format_indent_increase": {
+        "prefix": "mi:format_indent_increase",
+        "body": "<i class=\"material-icons\">format_indent_increase</i>",
+        "description": "Material icon format_indent_increase"
+    },
+    "material icons: format_italic": {
+        "prefix": "mi:format_italic",
+        "body": "<i class=\"material-icons\">format_italic</i>",
+        "description": "Material icon format_italic"
+    },
+    "material icons: format_line_spacing": {
+        "prefix": "mi:format_line_spacing",
+        "body": "<i class=\"material-icons\">format_line_spacing</i>",
+        "description": "Material icon format_line_spacing"
+    },
+    "material icons: format_list_bulleted": {
+        "prefix": "mi:format_list_bulleted",
+        "body": "<i class=\"material-icons\">format_list_bulleted</i>",
+        "description": "Material icon format_list_bulleted"
+    },
+    "material icons: format_list_numbered": {
+        "prefix": "mi:format_list_numbered",
+        "body": "<i class=\"material-icons\">format_list_numbered</i>",
+        "description": "Material icon format_list_numbered"
+    },
+    "material icons: format_paint": {
+        "prefix": "mi:format_paint",
+        "body": "<i class=\"material-icons\">format_paint</i>",
+        "description": "Material icon format_paint"
+    },
+    "material icons: format_quote": {
+        "prefix": "mi:format_quote",
+        "body": "<i class=\"material-icons\">format_quote</i>",
+        "description": "Material icon format_quote"
+    },
+    "material icons: format_shapes": {
+        "prefix": "mi:format_shapes",
+        "body": "<i class=\"material-icons\">format_shapes</i>",
+        "description": "Material icon format_shapes"
+    },
+    "material icons: format_size": {
+        "prefix": "mi:format_size",
+        "body": "<i class=\"material-icons\">format_size</i>",
+        "description": "Material icon format_size"
+    },
+    "material icons: format_strikethrough": {
+        "prefix": "mi:format_strikethrough",
+        "body": "<i class=\"material-icons\">format_strikethrough</i>",
+        "description": "Material icon format_strikethrough"
+    },
+    "material icons: format_textdirection_l_to_r": {
+        "prefix": "mi:format_textdirection_l_to_r",
+        "body": "<i class=\"material-icons\">format_textdirection_l_to_r</i>",
+        "description": "Material icon format_textdirection_l_to_r"
+    },
+    "material icons: format_textdirection_r_to_l": {
+        "prefix": "mi:format_textdirection_r_to_l",
+        "body": "<i class=\"material-icons\">format_textdirection_r_to_l</i>",
+        "description": "Material icon format_textdirection_r_to_l"
+    },
+    "material icons: format_underlined": {
+        "prefix": "mi:format_underlined",
+        "body": "<i class=\"material-icons\">format_underlined</i>",
+        "description": "Material icon format_underlined"
+    },
+    "material icons: forum": {
+        "prefix": "mi:forum",
+        "body": "<i class=\"material-icons\">forum</i>",
+        "description": "Material icon forum"
+    },
+    "material icons: forward": {
+        "prefix": "mi:forward",
+        "body": "<i class=\"material-icons\">forward</i>",
+        "description": "Material icon forward"
+    },
+    "material icons: forward_10": {
+        "prefix": "mi:forward_10",
+        "body": "<i class=\"material-icons\">forward_10</i>",
+        "description": "Material icon forward_10"
+    },
+    "material icons: forward_30": {
+        "prefix": "mi:forward_30",
+        "body": "<i class=\"material-icons\">forward_30</i>",
+        "description": "Material icon forward_30"
+    },
+    "material icons: forward_5": {
+        "prefix": "mi:forward_5",
+        "body": "<i class=\"material-icons\">forward_5</i>",
+        "description": "Material icon forward_5"
+    },
+    "material icons: free_breakfast": {
+        "prefix": "mi:free_breakfast",
+        "body": "<i class=\"material-icons\">free_breakfast</i>",
+        "description": "Material icon free_breakfast"
+    },
+    "material icons: fullscreen": {
+        "prefix": "mi:fullscreen",
+        "body": "<i class=\"material-icons\">fullscreen</i>",
+        "description": "Material icon fullscreen"
+    },
+    "material icons: fullscreen_exit": {
+        "prefix": "mi:fullscreen_exit",
+        "body": "<i class=\"material-icons\">fullscreen_exit</i>",
+        "description": "Material icon fullscreen_exit"
+    },
+    "material icons: functions": {
+        "prefix": "mi:functions",
+        "body": "<i class=\"material-icons\">functions</i>",
+        "description": "Material icon functions"
+    },
+    "material icons: g_translate": {
+        "prefix": "mi:g_translate",
+        "body": "<i class=\"material-icons\">g_translate</i>",
+        "description": "Material icon g_translate"
+    },
+    "material icons: gamepad": {
+        "prefix": "mi:gamepad",
+        "body": "<i class=\"material-icons\">gamepad</i>",
+        "description": "Material icon gamepad"
+    },
+    "material icons: games": {
+        "prefix": "mi:games",
+        "body": "<i class=\"material-icons\">games</i>",
+        "description": "Material icon games"
+    },
+    "material icons: gavel": {
+        "prefix": "mi:gavel",
+        "body": "<i class=\"material-icons\">gavel</i>",
+        "description": "Material icon gavel"
+    },
+    "material icons: gesture": {
+        "prefix": "mi:gesture",
+        "body": "<i class=\"material-icons\">gesture</i>",
+        "description": "Material icon gesture"
+    },
+    "material icons: get_app": {
+        "prefix": "mi:get_app",
+        "body": "<i class=\"material-icons\">get_app</i>",
+        "description": "Material icon get_app"
+    },
+    "material icons: gif": {
+        "prefix": "mi:gif",
+        "body": "<i class=\"material-icons\">gif</i>",
+        "description": "Material icon gif"
+    },
+    "material icons: golf_course": {
+        "prefix": "mi:golf_course",
+        "body": "<i class=\"material-icons\">golf_course</i>",
+        "description": "Material icon golf_course"
+    },
+    "material icons: gps_fixed": {
+        "prefix": "mi:gps_fixed",
+        "body": "<i class=\"material-icons\">gps_fixed</i>",
+        "description": "Material icon gps_fixed"
+    },
+    "material icons: gps_not_fixed": {
+        "prefix": "mi:gps_not_fixed",
+        "body": "<i class=\"material-icons\">gps_not_fixed</i>",
+        "description": "Material icon gps_not_fixed"
+    },
+    "material icons: gps_off": {
+        "prefix": "mi:gps_off",
+        "body": "<i class=\"material-icons\">gps_off</i>",
+        "description": "Material icon gps_off"
+    },
+    "material icons: grade": {
+        "prefix": "mi:grade",
+        "body": "<i class=\"material-icons\">grade</i>",
+        "description": "Material icon grade"
+    },
+    "material icons: gradient": {
+        "prefix": "mi:gradient",
+        "body": "<i class=\"material-icons\">gradient</i>",
+        "description": "Material icon gradient"
+    },
+    "material icons: grain": {
+        "prefix": "mi:grain",
+        "body": "<i class=\"material-icons\">grain</i>",
+        "description": "Material icon grain"
+    },
+    "material icons: graphic_eq": {
+        "prefix": "mi:graphic_eq",
+        "body": "<i class=\"material-icons\">graphic_eq</i>",
+        "description": "Material icon graphic_eq"
+    },
+    "material icons: grid_off": {
+        "prefix": "mi:grid_off",
+        "body": "<i class=\"material-icons\">grid_off</i>",
+        "description": "Material icon grid_off"
+    },
+    "material icons: grid_on": {
+        "prefix": "mi:grid_on",
+        "body": "<i class=\"material-icons\">grid_on</i>",
+        "description": "Material icon grid_on"
+    },
+    "material icons: group": {
+        "prefix": "mi:group",
+        "body": "<i class=\"material-icons\">group</i>",
+        "description": "Material icon group"
+    },
+    "material icons: group_add": {
+        "prefix": "mi:group_add",
+        "body": "<i class=\"material-icons\">group_add</i>",
+        "description": "Material icon group_add"
+    },
+    "material icons: group_work": {
+        "prefix": "mi:group_work",
+        "body": "<i class=\"material-icons\">group_work</i>",
+        "description": "Material icon group_work"
+    },
+    "material icons: hd": {
+        "prefix": "mi:hd",
+        "body": "<i class=\"material-icons\">hd</i>",
+        "description": "Material icon hd"
+    },
+    "material icons: hdr_off": {
+        "prefix": "mi:hdr_off",
+        "body": "<i class=\"material-icons\">hdr_off</i>",
+        "description": "Material icon hdr_off"
+    },
+    "material icons: hdr_on": {
+        "prefix": "mi:hdr_on",
+        "body": "<i class=\"material-icons\">hdr_on</i>",
+        "description": "Material icon hdr_on"
+    },
+    "material icons: hdr_strong": {
+        "prefix": "mi:hdr_strong",
+        "body": "<i class=\"material-icons\">hdr_strong</i>",
+        "description": "Material icon hdr_strong"
+    },
+    "material icons: hdr_weak": {
+        "prefix": "mi:hdr_weak",
+        "body": "<i class=\"material-icons\">hdr_weak</i>",
+        "description": "Material icon hdr_weak"
+    },
+    "material icons: headset": {
+        "prefix": "mi:headset",
+        "body": "<i class=\"material-icons\">headset</i>",
+        "description": "Material icon headset"
+    },
+    "material icons: headset_mic": {
+        "prefix": "mi:headset_mic",
+        "body": "<i class=\"material-icons\">headset_mic</i>",
+        "description": "Material icon headset_mic"
+    },
+    "material icons: healing": {
+        "prefix": "mi:healing",
+        "body": "<i class=\"material-icons\">healing</i>",
+        "description": "Material icon healing"
+    },
+    "material icons: hearing": {
+        "prefix": "mi:hearing",
+        "body": "<i class=\"material-icons\">hearing</i>",
+        "description": "Material icon hearing"
+    },
+    "material icons: help": {
+        "prefix": "mi:help",
+        "body": "<i class=\"material-icons\">help</i>",
+        "description": "Material icon help"
+    },
+    "material icons: help_outline": {
+        "prefix": "mi:help_outline",
+        "body": "<i class=\"material-icons\">help_outline</i>",
+        "description": "Material icon help_outline"
+    },
+    "material icons: high_quality": {
+        "prefix": "mi:high_quality",
+        "body": "<i class=\"material-icons\">high_quality</i>",
+        "description": "Material icon high_quality"
+    },
+    "material icons: highlight": {
+        "prefix": "mi:highlight",
+        "body": "<i class=\"material-icons\">highlight</i>",
+        "description": "Material icon highlight"
+    },
+    "material icons: highlight_off": {
+        "prefix": "mi:highlight_off",
+        "body": "<i class=\"material-icons\">highlight_off</i>",
+        "description": "Material icon highlight_off"
+    },
+    "material icons: history": {
+        "prefix": "mi:history",
+        "body": "<i class=\"material-icons\">history</i>",
+        "description": "Material icon history"
+    },
+    "material icons: home": {
+        "prefix": "mi:home",
+        "body": "<i class=\"material-icons\">home</i>",
+        "description": "Material icon home"
+    },
+    "material icons: hot_tub": {
+        "prefix": "mi:hot_tub",
+        "body": "<i class=\"material-icons\">hot_tub</i>",
+        "description": "Material icon hot_tub"
+    },
+    "material icons: hotel": {
+        "prefix": "mi:hotel",
+        "body": "<i class=\"material-icons\">hotel</i>",
+        "description": "Material icon hotel"
+    },
+    "material icons: hourglass_empty": {
+        "prefix": "mi:hourglass_empty",
+        "body": "<i class=\"material-icons\">hourglass_empty</i>",
+        "description": "Material icon hourglass_empty"
+    },
+    "material icons: hourglass_full": {
+        "prefix": "mi:hourglass_full",
+        "body": "<i class=\"material-icons\">hourglass_full</i>",
+        "description": "Material icon hourglass_full"
+    },
+    "material icons: http": {
+        "prefix": "mi:http",
+        "body": "<i class=\"material-icons\">http</i>",
+        "description": "Material icon http"
+    },
+    "material icons: https": {
+        "prefix": "mi:https",
+        "body": "<i class=\"material-icons\">https</i>",
+        "description": "Material icon https"
+    },
+    "material icons: image": {
+        "prefix": "mi:image",
+        "body": "<i class=\"material-icons\">image</i>",
+        "description": "Material icon image"
+    },
+    "material icons: image_aspect_ratio": {
+        "prefix": "mi:image_aspect_ratio",
+        "body": "<i class=\"material-icons\">image_aspect_ratio</i>",
+        "description": "Material icon image_aspect_ratio"
+    },
+    "material icons: import_contacts": {
+        "prefix": "mi:import_contacts",
+        "body": "<i class=\"material-icons\">import_contacts</i>",
+        "description": "Material icon import_contacts"
+    },
+    "material icons: import_export": {
+        "prefix": "mi:import_export",
+        "body": "<i class=\"material-icons\">import_export</i>",
+        "description": "Material icon import_export"
+    },
+    "material icons: important_devices": {
+        "prefix": "mi:important_devices",
+        "body": "<i class=\"material-icons\">important_devices</i>",
+        "description": "Material icon important_devices"
+    },
+    "material icons: inbox": {
+        "prefix": "mi:inbox",
+        "body": "<i class=\"material-icons\">inbox</i>",
+        "description": "Material icon inbox"
+    },
+    "material icons: indeterminate_check_box": {
+        "prefix": "mi:indeterminate_check_box",
+        "body": "<i class=\"material-icons\">indeterminate_check_box</i>",
+        "description": "Material icon indeterminate_check_box"
+    },
+    "material icons: info": {
+        "prefix": "mi:info",
+        "body": "<i class=\"material-icons\">info</i>",
+        "description": "Material icon info"
+    },
+    "material icons: info_outline": {
+        "prefix": "mi:info_outline",
+        "body": "<i class=\"material-icons\">info_outline</i>",
+        "description": "Material icon info_outline"
+    },
+    "material icons: input": {
+        "prefix": "mi:input",
+        "body": "<i class=\"material-icons\">input</i>",
+        "description": "Material icon input"
+    },
+    "material icons: insert_chart": {
+        "prefix": "mi:insert_chart",
+        "body": "<i class=\"material-icons\">insert_chart</i>",
+        "description": "Material icon insert_chart"
+    },
+    "material icons: insert_comment": {
+        "prefix": "mi:insert_comment",
+        "body": "<i class=\"material-icons\">insert_comment</i>",
+        "description": "Material icon insert_comment"
+    },
+    "material icons: insert_drive_file": {
+        "prefix": "mi:insert_drive_file",
+        "body": "<i class=\"material-icons\">insert_drive_file</i>",
+        "description": "Material icon insert_drive_file"
+    },
+    "material icons: insert_emoticon": {
+        "prefix": "mi:insert_emoticon",
+        "body": "<i class=\"material-icons\">insert_emoticon</i>",
+        "description": "Material icon insert_emoticon"
+    },
+    "material icons: insert_invitation": {
+        "prefix": "mi:insert_invitation",
+        "body": "<i class=\"material-icons\">insert_invitation</i>",
+        "description": "Material icon insert_invitation"
+    },
+    "material icons: insert_link": {
+        "prefix": "mi:insert_link",
+        "body": "<i class=\"material-icons\">insert_link</i>",
+        "description": "Material icon insert_link"
+    },
+    "material icons: insert_photo": {
+        "prefix": "mi:insert_photo",
+        "body": "<i class=\"material-icons\">insert_photo</i>",
+        "description": "Material icon insert_photo"
+    },
+    "material icons: invert_colors": {
+        "prefix": "mi:invert_colors",
+        "body": "<i class=\"material-icons\">invert_colors</i>",
+        "description": "Material icon invert_colors"
+    },
+    "material icons: invert_colors_off": {
+        "prefix": "mi:invert_colors_off",
+        "body": "<i class=\"material-icons\">invert_colors_off</i>",
+        "description": "Material icon invert_colors_off"
+    },
+    "material icons: iso": {
+        "prefix": "mi:iso",
+        "body": "<i class=\"material-icons\">iso</i>",
+        "description": "Material icon iso"
+    },
+    "material icons: keyboard": {
+        "prefix": "mi:keyboard",
+        "body": "<i class=\"material-icons\">keyboard</i>",
+        "description": "Material icon keyboard"
+    },
+    "material icons: keyboard_arrow_down": {
+        "prefix": "mi:keyboard_arrow_down",
+        "body": "<i class=\"material-icons\">keyboard_arrow_down</i>",
+        "description": "Material icon keyboard_arrow_down"
+    },
+    "material icons: keyboard_arrow_left": {
+        "prefix": "mi:keyboard_arrow_left",
+        "body": "<i class=\"material-icons\">keyboard_arrow_left</i>",
+        "description": "Material icon keyboard_arrow_left"
+    },
+    "material icons: keyboard_arrow_right": {
+        "prefix": "mi:keyboard_arrow_right",
+        "body": "<i class=\"material-icons\">keyboard_arrow_right</i>",
+        "description": "Material icon keyboard_arrow_right"
+    },
+    "material icons: keyboard_arrow_up": {
+        "prefix": "mi:keyboard_arrow_up",
+        "body": "<i class=\"material-icons\">keyboard_arrow_up</i>",
+        "description": "Material icon keyboard_arrow_up"
+    },
+    "material icons: keyboard_backspace": {
+        "prefix": "mi:keyboard_backspace",
+        "body": "<i class=\"material-icons\">keyboard_backspace</i>",
+        "description": "Material icon keyboard_backspace"
+    },
+    "material icons: keyboard_capslock": {
+        "prefix": "mi:keyboard_capslock",
+        "body": "<i class=\"material-icons\">keyboard_capslock</i>",
+        "description": "Material icon keyboard_capslock"
+    },
+    "material icons: keyboard_hide": {
+        "prefix": "mi:keyboard_hide",
+        "body": "<i class=\"material-icons\">keyboard_hide</i>",
+        "description": "Material icon keyboard_hide"
+    },
+    "material icons: keyboard_return": {
+        "prefix": "mi:keyboard_return",
+        "body": "<i class=\"material-icons\">keyboard_return</i>",
+        "description": "Material icon keyboard_return"
+    },
+    "material icons: keyboard_tab": {
+        "prefix": "mi:keyboard_tab",
+        "body": "<i class=\"material-icons\">keyboard_tab</i>",
+        "description": "Material icon keyboard_tab"
+    },
+    "material icons: keyboard_voice": {
+        "prefix": "mi:keyboard_voice",
+        "body": "<i class=\"material-icons\">keyboard_voice</i>",
+        "description": "Material icon keyboard_voice"
+    },
+    "material icons: kitchen": {
+        "prefix": "mi:kitchen",
+        "body": "<i class=\"material-icons\">kitchen</i>",
+        "description": "Material icon kitchen"
+    },
+    "material icons: label": {
+        "prefix": "mi:label",
+        "body": "<i class=\"material-icons\">label</i>",
+        "description": "Material icon label"
+    },
+    "material icons: label_outline": {
+        "prefix": "mi:label_outline",
+        "body": "<i class=\"material-icons\">label_outline</i>",
+        "description": "Material icon label_outline"
+    },
+    "material icons: landscape": {
+        "prefix": "mi:landscape",
+        "body": "<i class=\"material-icons\">landscape</i>",
+        "description": "Material icon landscape"
+    },
+    "material icons: language": {
+        "prefix": "mi:language",
+        "body": "<i class=\"material-icons\">language</i>",
+        "description": "Material icon language"
+    },
+    "material icons: laptop": {
+        "prefix": "mi:laptop",
+        "body": "<i class=\"material-icons\">laptop</i>",
+        "description": "Material icon laptop"
+    },
+    "material icons: laptop_chromebook": {
+        "prefix": "mi:laptop_chromebook",
+        "body": "<i class=\"material-icons\">laptop_chromebook</i>",
+        "description": "Material icon laptop_chromebook"
+    },
+    "material icons: laptop_mac": {
+        "prefix": "mi:laptop_mac",
+        "body": "<i class=\"material-icons\">laptop_mac</i>",
+        "description": "Material icon laptop_mac"
+    },
+    "material icons: laptop_windows": {
+        "prefix": "mi:laptop_windows",
+        "body": "<i class=\"material-icons\">laptop_windows</i>",
+        "description": "Material icon laptop_windows"
+    },
+    "material icons: last_page": {
+        "prefix": "mi:last_page",
+        "body": "<i class=\"material-icons\">last_page</i>",
+        "description": "Material icon last_page"
+    },
+    "material icons: launch": {
+        "prefix": "mi:launch",
+        "body": "<i class=\"material-icons\">launch</i>",
+        "description": "Material icon launch"
+    },
+    "material icons: layers": {
+        "prefix": "mi:layers",
+        "body": "<i class=\"material-icons\">layers</i>",
+        "description": "Material icon layers"
+    },
+    "material icons: layers_clear": {
+        "prefix": "mi:layers_clear",
+        "body": "<i class=\"material-icons\">layers_clear</i>",
+        "description": "Material icon layers_clear"
+    },
+    "material icons: leak_add": {
+        "prefix": "mi:leak_add",
+        "body": "<i class=\"material-icons\">leak_add</i>",
+        "description": "Material icon leak_add"
+    },
+    "material icons: leak_remove": {
+        "prefix": "mi:leak_remove",
+        "body": "<i class=\"material-icons\">leak_remove</i>",
+        "description": "Material icon leak_remove"
+    },
+    "material icons: lens": {
+        "prefix": "mi:lens",
+        "body": "<i class=\"material-icons\">lens</i>",
+        "description": "Material icon lens"
+    },
+    "material icons: library_add": {
+        "prefix": "mi:library_add",
+        "body": "<i class=\"material-icons\">library_add</i>",
+        "description": "Material icon library_add"
+    },
+    "material icons: library_books": {
+        "prefix": "mi:library_books",
+        "body": "<i class=\"material-icons\">library_books</i>",
+        "description": "Material icon library_books"
+    },
+    "material icons: library_music": {
+        "prefix": "mi:library_music",
+        "body": "<i class=\"material-icons\">library_music</i>",
+        "description": "Material icon library_music"
+    },
+    "material icons: lightbulb_outline": {
+        "prefix": "mi:lightbulb_outline",
+        "body": "<i class=\"material-icons\">lightbulb_outline</i>",
+        "description": "Material icon lightbulb_outline"
+    },
+    "material icons: line_style": {
+        "prefix": "mi:line_style",
+        "body": "<i class=\"material-icons\">line_style</i>",
+        "description": "Material icon line_style"
+    },
+    "material icons: line_weight": {
+        "prefix": "mi:line_weight",
+        "body": "<i class=\"material-icons\">line_weight</i>",
+        "description": "Material icon line_weight"
+    },
+    "material icons: linear_scale": {
+        "prefix": "mi:linear_scale",
+        "body": "<i class=\"material-icons\">linear_scale</i>",
+        "description": "Material icon linear_scale"
+    },
+    "material icons: link": {
+        "prefix": "mi:link",
+        "body": "<i class=\"material-icons\">link</i>",
+        "description": "Material icon link"
+    },
+    "material icons: linked_camera": {
+        "prefix": "mi:linked_camera",
+        "body": "<i class=\"material-icons\">linked_camera</i>",
+        "description": "Material icon linked_camera"
+    },
+    "material icons: list": {
+        "prefix": "mi:list",
+        "body": "<i class=\"material-icons\">list</i>",
+        "description": "Material icon list"
+    },
+    "material icons: live_help": {
+        "prefix": "mi:live_help",
+        "body": "<i class=\"material-icons\">live_help</i>",
+        "description": "Material icon live_help"
+    },
+    "material icons: live_tv": {
+        "prefix": "mi:live_tv",
+        "body": "<i class=\"material-icons\">live_tv</i>",
+        "description": "Material icon live_tv"
+    },
+    "material icons: local_activity": {
+        "prefix": "mi:local_activity",
+        "body": "<i class=\"material-icons\">local_activity</i>",
+        "description": "Material icon local_activity"
+    },
+    "material icons: local_airport": {
+        "prefix": "mi:local_airport",
+        "body": "<i class=\"material-icons\">local_airport</i>",
+        "description": "Material icon local_airport"
+    },
+    "material icons: local_atm": {
+        "prefix": "mi:local_atm",
+        "body": "<i class=\"material-icons\">local_atm</i>",
+        "description": "Material icon local_atm"
+    },
+    "material icons: local_bar": {
+        "prefix": "mi:local_bar",
+        "body": "<i class=\"material-icons\">local_bar</i>",
+        "description": "Material icon local_bar"
+    },
+    "material icons: local_cafe": {
+        "prefix": "mi:local_cafe",
+        "body": "<i class=\"material-icons\">local_cafe</i>",
+        "description": "Material icon local_cafe"
+    },
+    "material icons: local_car_wash": {
+        "prefix": "mi:local_car_wash",
+        "body": "<i class=\"material-icons\">local_car_wash</i>",
+        "description": "Material icon local_car_wash"
+    },
+    "material icons: local_convenience_store": {
+        "prefix": "mi:local_convenience_store",
+        "body": "<i class=\"material-icons\">local_convenience_store</i>",
+        "description": "Material icon local_convenience_store"
+    },
+    "material icons: local_dining": {
+        "prefix": "mi:local_dining",
+        "body": "<i class=\"material-icons\">local_dining</i>",
+        "description": "Material icon local_dining"
+    },
+    "material icons: local_drink": {
+        "prefix": "mi:local_drink",
+        "body": "<i class=\"material-icons\">local_drink</i>",
+        "description": "Material icon local_drink"
+    },
+    "material icons: local_florist": {
+        "prefix": "mi:local_florist",
+        "body": "<i class=\"material-icons\">local_florist</i>",
+        "description": "Material icon local_florist"
+    },
+    "material icons: local_gas_station": {
+        "prefix": "mi:local_gas_station",
+        "body": "<i class=\"material-icons\">local_gas_station</i>",
+        "description": "Material icon local_gas_station"
+    },
+    "material icons: local_grocery_store": {
+        "prefix": "mi:local_grocery_store",
+        "body": "<i class=\"material-icons\">local_grocery_store</i>",
+        "description": "Material icon local_grocery_store"
+    },
+    "material icons: local_hospital": {
+        "prefix": "mi:local_hospital",
+        "body": "<i class=\"material-icons\">local_hospital</i>",
+        "description": "Material icon local_hospital"
+    },
+    "material icons: local_hotel": {
+        "prefix": "mi:local_hotel",
+        "body": "<i class=\"material-icons\">local_hotel</i>",
+        "description": "Material icon local_hotel"
+    },
+    "material icons: local_laundry_service": {
+        "prefix": "mi:local_laundry_service",
+        "body": "<i class=\"material-icons\">local_laundry_service</i>",
+        "description": "Material icon local_laundry_service"
+    },
+    "material icons: local_library": {
+        "prefix": "mi:local_library",
+        "body": "<i class=\"material-icons\">local_library</i>",
+        "description": "Material icon local_library"
+    },
+    "material icons: local_mall": {
+        "prefix": "mi:local_mall",
+        "body": "<i class=\"material-icons\">local_mall</i>",
+        "description": "Material icon local_mall"
+    },
+    "material icons: local_movies": {
+        "prefix": "mi:local_movies",
+        "body": "<i class=\"material-icons\">local_movies</i>",
+        "description": "Material icon local_movies"
+    },
+    "material icons: local_offer": {
+        "prefix": "mi:local_offer",
+        "body": "<i class=\"material-icons\">local_offer</i>",
+        "description": "Material icon local_offer"
+    },
+    "material icons: local_parking": {
+        "prefix": "mi:local_parking",
+        "body": "<i class=\"material-icons\">local_parking</i>",
+        "description": "Material icon local_parking"
+    },
+    "material icons: local_pharmacy": {
+        "prefix": "mi:local_pharmacy",
+        "body": "<i class=\"material-icons\">local_pharmacy</i>",
+        "description": "Material icon local_pharmacy"
+    },
+    "material icons: local_phone": {
+        "prefix": "mi:local_phone",
+        "body": "<i class=\"material-icons\">local_phone</i>",
+        "description": "Material icon local_phone"
+    },
+    "material icons: local_pizza": {
+        "prefix": "mi:local_pizza",
+        "body": "<i class=\"material-icons\">local_pizza</i>",
+        "description": "Material icon local_pizza"
+    },
+    "material icons: local_play": {
+        "prefix": "mi:local_play",
+        "body": "<i class=\"material-icons\">local_play</i>",
+        "description": "Material icon local_play"
+    },
+    "material icons: local_post_office": {
+        "prefix": "mi:local_post_office",
+        "body": "<i class=\"material-icons\">local_post_office</i>",
+        "description": "Material icon local_post_office"
+    },
+    "material icons: local_printshop": {
+        "prefix": "mi:local_printshop",
+        "body": "<i class=\"material-icons\">local_printshop</i>",
+        "description": "Material icon local_printshop"
+    },
+    "material icons: local_see": {
+        "prefix": "mi:local_see",
+        "body": "<i class=\"material-icons\">local_see</i>",
+        "description": "Material icon local_see"
+    },
+    "material icons: local_shipping": {
+        "prefix": "mi:local_shipping",
+        "body": "<i class=\"material-icons\">local_shipping</i>",
+        "description": "Material icon local_shipping"
+    },
+    "material icons: local_taxi": {
+        "prefix": "mi:local_taxi",
+        "body": "<i class=\"material-icons\">local_taxi</i>",
+        "description": "Material icon local_taxi"
+    },
+    "material icons: location_city": {
+        "prefix": "mi:location_city",
+        "body": "<i class=\"material-icons\">location_city</i>",
+        "description": "Material icon location_city"
+    },
+    "material icons: location_disabled": {
+        "prefix": "mi:location_disabled",
+        "body": "<i class=\"material-icons\">location_disabled</i>",
+        "description": "Material icon location_disabled"
+    },
+    "material icons: location_off": {
+        "prefix": "mi:location_off",
+        "body": "<i class=\"material-icons\">location_off</i>",
+        "description": "Material icon location_off"
+    },
+    "material icons: location_on": {
+        "prefix": "mi:location_on",
+        "body": "<i class=\"material-icons\">location_on</i>",
+        "description": "Material icon location_on"
+    },
+    "material icons: location_searching": {
+        "prefix": "mi:location_searching",
+        "body": "<i class=\"material-icons\">location_searching</i>",
+        "description": "Material icon location_searching"
+    },
+    "material icons: lock": {
+        "prefix": "mi:lock",
+        "body": "<i class=\"material-icons\">lock</i>",
+        "description": "Material icon lock"
+    },
+    "material icons: lock_open": {
+        "prefix": "mi:lock_open",
+        "body": "<i class=\"material-icons\">lock_open</i>",
+        "description": "Material icon lock_open"
+    },
+    "material icons: lock_outline": {
+        "prefix": "mi:lock_outline",
+        "body": "<i class=\"material-icons\">lock_outline</i>",
+        "description": "Material icon lock_outline"
+    },
+    "material icons: looks": {
+        "prefix": "mi:looks",
+        "body": "<i class=\"material-icons\">looks</i>",
+        "description": "Material icon looks"
+    },
+    "material icons: looks_3": {
+        "prefix": "mi:looks_3",
+        "body": "<i class=\"material-icons\">looks_3</i>",
+        "description": "Material icon looks_3"
+    },
+    "material icons: looks_4": {
+        "prefix": "mi:looks_4",
+        "body": "<i class=\"material-icons\">looks_4</i>",
+        "description": "Material icon looks_4"
+    },
+    "material icons: looks_5": {
+        "prefix": "mi:looks_5",
+        "body": "<i class=\"material-icons\">looks_5</i>",
+        "description": "Material icon looks_5"
+    },
+    "material icons: looks_6": {
+        "prefix": "mi:looks_6",
+        "body": "<i class=\"material-icons\">looks_6</i>",
+        "description": "Material icon looks_6"
+    },
+    "material icons: looks_one": {
+        "prefix": "mi:looks_one",
+        "body": "<i class=\"material-icons\">looks_one</i>",
+        "description": "Material icon looks_one"
+    },
+    "material icons: looks_two": {
+        "prefix": "mi:looks_two",
+        "body": "<i class=\"material-icons\">looks_two</i>",
+        "description": "Material icon looks_two"
+    },
+    "material icons: loop": {
+        "prefix": "mi:loop",
+        "body": "<i class=\"material-icons\">loop</i>",
+        "description": "Material icon loop"
+    },
+    "material icons: loupe": {
+        "prefix": "mi:loupe",
+        "body": "<i class=\"material-icons\">loupe</i>",
+        "description": "Material icon loupe"
+    },
+    "material icons: low_priority": {
+        "prefix": "mi:low_priority",
+        "body": "<i class=\"material-icons\">low_priority</i>",
+        "description": "Material icon low_priority"
+    },
+    "material icons: loyalty": {
+        "prefix": "mi:loyalty",
+        "body": "<i class=\"material-icons\">loyalty</i>",
+        "description": "Material icon loyalty"
+    },
+    "material icons: mail": {
+        "prefix": "mi:mail",
+        "body": "<i class=\"material-icons\">mail</i>",
+        "description": "Material icon mail"
+    },
+    "material icons: mail_outline": {
+        "prefix": "mi:mail_outline",
+        "body": "<i class=\"material-icons\">mail_outline</i>",
+        "description": "Material icon mail_outline"
+    },
+    "material icons: map": {
+        "prefix": "mi:map",
+        "body": "<i class=\"material-icons\">map</i>",
+        "description": "Material icon map"
+    },
+    "material icons: markunread": {
+        "prefix": "mi:markunread",
+        "body": "<i class=\"material-icons\">markunread</i>",
+        "description": "Material icon markunread"
+    },
+    "material icons: markunread_mailbox": {
+        "prefix": "mi:markunread_mailbox",
+        "body": "<i class=\"material-icons\">markunread_mailbox</i>",
+        "description": "Material icon markunread_mailbox"
+    },
+    "material icons: memory": {
+        "prefix": "mi:memory",
+        "body": "<i class=\"material-icons\">memory</i>",
+        "description": "Material icon memory"
+    },
+    "material icons: menu": {
+        "prefix": "mi:menu",
+        "body": "<i class=\"material-icons\">menu</i>",
+        "description": "Material icon menu"
+    },
+    "material icons: merge_type": {
+        "prefix": "mi:merge_type",
+        "body": "<i class=\"material-icons\">merge_type</i>",
+        "description": "Material icon merge_type"
+    },
+    "material icons: message": {
+        "prefix": "mi:message",
+        "body": "<i class=\"material-icons\">message</i>",
+        "description": "Material icon message"
+    },
+    "material icons: mic": {
+        "prefix": "mi:mic",
+        "body": "<i class=\"material-icons\">mic</i>",
+        "description": "Material icon mic"
+    },
+    "material icons: mic_none": {
+        "prefix": "mi:mic_none",
+        "body": "<i class=\"material-icons\">mic_none</i>",
+        "description": "Material icon mic_none"
+    },
+    "material icons: mic_off": {
+        "prefix": "mi:mic_off",
+        "body": "<i class=\"material-icons\">mic_off</i>",
+        "description": "Material icon mic_off"
+    },
+    "material icons: mms": {
+        "prefix": "mi:mms",
+        "body": "<i class=\"material-icons\">mms</i>",
+        "description": "Material icon mms"
+    },
+    "material icons: mode_comment": {
+        "prefix": "mi:mode_comment",
+        "body": "<i class=\"material-icons\">mode_comment</i>",
+        "description": "Material icon mode_comment"
+    },
+    "material icons: mode_edit": {
+        "prefix": "mi:mode_edit",
+        "body": "<i class=\"material-icons\">mode_edit</i>",
+        "description": "Material icon mode_edit"
+    },
+    "material icons: monetization_on": {
+        "prefix": "mi:monetization_on",
+        "body": "<i class=\"material-icons\">monetization_on</i>",
+        "description": "Material icon monetization_on"
+    },
+    "material icons: money_off": {
+        "prefix": "mi:money_off",
+        "body": "<i class=\"material-icons\">money_off</i>",
+        "description": "Material icon money_off"
+    },
+    "material icons: monochrome_photos": {
+        "prefix": "mi:monochrome_photos",
+        "body": "<i class=\"material-icons\">monochrome_photos</i>",
+        "description": "Material icon monochrome_photos"
+    },
+    "material icons: mood": {
+        "prefix": "mi:mood",
+        "body": "<i class=\"material-icons\">mood</i>",
+        "description": "Material icon mood"
+    },
+    "material icons: mood_bad": {
+        "prefix": "mi:mood_bad",
+        "body": "<i class=\"material-icons\">mood_bad</i>",
+        "description": "Material icon mood_bad"
+    },
+    "material icons: more": {
+        "prefix": "mi:more",
+        "body": "<i class=\"material-icons\">more</i>",
+        "description": "Material icon more"
+    },
+    "material icons: more_horiz": {
+        "prefix": "mi:more_horiz",
+        "body": "<i class=\"material-icons\">more_horiz</i>",
+        "description": "Material icon more_horiz"
+    },
+    "material icons: more_vert": {
+        "prefix": "mi:more_vert",
+        "body": "<i class=\"material-icons\">more_vert</i>",
+        "description": "Material icon more_vert"
+    },
+    "material icons: motorcycle": {
+        "prefix": "mi:motorcycle",
+        "body": "<i class=\"material-icons\">motorcycle</i>",
+        "description": "Material icon motorcycle"
+    },
+    "material icons: mouse": {
+        "prefix": "mi:mouse",
+        "body": "<i class=\"material-icons\">mouse</i>",
+        "description": "Material icon mouse"
+    },
+    "material icons: move_to_inbox": {
+        "prefix": "mi:move_to_inbox",
+        "body": "<i class=\"material-icons\">move_to_inbox</i>",
+        "description": "Material icon move_to_inbox"
+    },
+    "material icons: movie": {
+        "prefix": "mi:movie",
+        "body": "<i class=\"material-icons\">movie</i>",
+        "description": "Material icon movie"
+    },
+    "material icons: movie_creation": {
+        "prefix": "mi:movie_creation",
+        "body": "<i class=\"material-icons\">movie_creation</i>",
+        "description": "Material icon movie_creation"
+    },
+    "material icons: movie_filter": {
+        "prefix": "mi:movie_filter",
+        "body": "<i class=\"material-icons\">movie_filter</i>",
+        "description": "Material icon movie_filter"
+    },
+    "material icons: multiline_chart": {
+        "prefix": "mi:multiline_chart",
+        "body": "<i class=\"material-icons\">multiline_chart</i>",
+        "description": "Material icon multiline_chart"
+    },
+    "material icons: music_note": {
+        "prefix": "mi:music_note",
+        "body": "<i class=\"material-icons\">music_note</i>",
+        "description": "Material icon music_note"
+    },
+    "material icons: music_video": {
+        "prefix": "mi:music_video",
+        "body": "<i class=\"material-icons\">music_video</i>",
+        "description": "Material icon music_video"
+    },
+    "material icons: my_location": {
+        "prefix": "mi:my_location",
+        "body": "<i class=\"material-icons\">my_location</i>",
+        "description": "Material icon my_location"
+    },
+    "material icons: nature": {
+        "prefix": "mi:nature",
+        "body": "<i class=\"material-icons\">nature</i>",
+        "description": "Material icon nature"
+    },
+    "material icons: nature_people": {
+        "prefix": "mi:nature_people",
+        "body": "<i class=\"material-icons\">nature_people</i>",
+        "description": "Material icon nature_people"
+    },
+    "material icons: navigate_before": {
+        "prefix": "mi:navigate_before",
+        "body": "<i class=\"material-icons\">navigate_before</i>",
+        "description": "Material icon navigate_before"
+    },
+    "material icons: navigate_next": {
+        "prefix": "mi:navigate_next",
+        "body": "<i class=\"material-icons\">navigate_next</i>",
+        "description": "Material icon navigate_next"
+    },
+    "material icons: navigation": {
+        "prefix": "mi:navigation",
+        "body": "<i class=\"material-icons\">navigation</i>",
+        "description": "Material icon navigation"
+    },
+    "material icons: near_me": {
+        "prefix": "mi:near_me",
+        "body": "<i class=\"material-icons\">near_me</i>",
+        "description": "Material icon near_me"
+    },
+    "material icons: network_cell": {
+        "prefix": "mi:network_cell",
+        "body": "<i class=\"material-icons\">network_cell</i>",
+        "description": "Material icon network_cell"
+    },
+    "material icons: network_check": {
+        "prefix": "mi:network_check",
+        "body": "<i class=\"material-icons\">network_check</i>",
+        "description": "Material icon network_check"
+    },
+    "material icons: network_locked": {
+        "prefix": "mi:network_locked",
+        "body": "<i class=\"material-icons\">network_locked</i>",
+        "description": "Material icon network_locked"
+    },
+    "material icons: network_wifi": {
+        "prefix": "mi:network_wifi",
+        "body": "<i class=\"material-icons\">network_wifi</i>",
+        "description": "Material icon network_wifi"
+    },
+    "material icons: new_releases": {
+        "prefix": "mi:new_releases",
+        "body": "<i class=\"material-icons\">new_releases</i>",
+        "description": "Material icon new_releases"
+    },
+    "material icons: next_week": {
+        "prefix": "mi:next_week",
+        "body": "<i class=\"material-icons\">next_week</i>",
+        "description": "Material icon next_week"
+    },
+    "material icons: nfc": {
+        "prefix": "mi:nfc",
+        "body": "<i class=\"material-icons\">nfc</i>",
+        "description": "Material icon nfc"
+    },
+    "material icons: no_encryption": {
+        "prefix": "mi:no_encryption",
+        "body": "<i class=\"material-icons\">no_encryption</i>",
+        "description": "Material icon no_encryption"
+    },
+    "material icons: no_sim": {
+        "prefix": "mi:no_sim",
+        "body": "<i class=\"material-icons\">no_sim</i>",
+        "description": "Material icon no_sim"
+    },
+    "material icons: not_interested": {
+        "prefix": "mi:not_interested",
+        "body": "<i class=\"material-icons\">not_interested</i>",
+        "description": "Material icon not_interested"
+    },
+    "material icons: note": {
+        "prefix": "mi:note",
+        "body": "<i class=\"material-icons\">note</i>",
+        "description": "Material icon note"
+    },
+    "material icons: note_add": {
+        "prefix": "mi:note_add",
+        "body": "<i class=\"material-icons\">note_add</i>",
+        "description": "Material icon note_add"
+    },
+    "material icons: notifications": {
+        "prefix": "mi:notifications",
+        "body": "<i class=\"material-icons\">notifications</i>",
+        "description": "Material icon notifications"
+    },
+    "material icons: notifications_active": {
+        "prefix": "mi:notifications_active",
+        "body": "<i class=\"material-icons\">notifications_active</i>",
+        "description": "Material icon notifications_active"
+    },
+    "material icons: notifications_none": {
+        "prefix": "mi:notifications_none",
+        "body": "<i class=\"material-icons\">notifications_none</i>",
+        "description": "Material icon notifications_none"
+    },
+    "material icons: notifications_off": {
+        "prefix": "mi:notifications_off",
+        "body": "<i class=\"material-icons\">notifications_off</i>",
+        "description": "Material icon notifications_off"
+    },
+    "material icons: notifications_paused": {
+        "prefix": "mi:notifications_paused",
+        "body": "<i class=\"material-icons\">notifications_paused</i>",
+        "description": "Material icon notifications_paused"
+    },
+    "material icons: offline_pin": {
+        "prefix": "mi:offline_pin",
+        "body": "<i class=\"material-icons\">offline_pin</i>",
+        "description": "Material icon offline_pin"
+    },
+    "material icons: ondemand_video": {
+        "prefix": "mi:ondemand_video",
+        "body": "<i class=\"material-icons\">ondemand_video</i>",
+        "description": "Material icon ondemand_video"
+    },
+    "material icons: opacity": {
+        "prefix": "mi:opacity",
+        "body": "<i class=\"material-icons\">opacity</i>",
+        "description": "Material icon opacity"
+    },
+    "material icons: open_in_browser": {
+        "prefix": "mi:open_in_browser",
+        "body": "<i class=\"material-icons\">open_in_browser</i>",
+        "description": "Material icon open_in_browser"
+    },
+    "material icons: open_in_new": {
+        "prefix": "mi:open_in_new",
+        "body": "<i class=\"material-icons\">open_in_new</i>",
+        "description": "Material icon open_in_new"
+    },
+    "material icons: open_with": {
+        "prefix": "mi:open_with",
+        "body": "<i class=\"material-icons\">open_with</i>",
+        "description": "Material icon open_with"
+    },
+    "material icons: pages": {
+        "prefix": "mi:pages",
+        "body": "<i class=\"material-icons\">pages</i>",
+        "description": "Material icon pages"
+    },
+    "material icons: pageview": {
+        "prefix": "mi:pageview",
+        "body": "<i class=\"material-icons\">pageview</i>",
+        "description": "Material icon pageview"
+    },
+    "material icons: palette": {
+        "prefix": "mi:palette",
+        "body": "<i class=\"material-icons\">palette</i>",
+        "description": "Material icon palette"
+    },
+    "material icons: pan_tool": {
+        "prefix": "mi:pan_tool",
+        "body": "<i class=\"material-icons\">pan_tool</i>",
+        "description": "Material icon pan_tool"
+    },
+    "material icons: panorama": {
+        "prefix": "mi:panorama",
+        "body": "<i class=\"material-icons\">panorama</i>",
+        "description": "Material icon panorama"
+    },
+    "material icons: panorama_fish_eye": {
+        "prefix": "mi:panorama_fish_eye",
+        "body": "<i class=\"material-icons\">panorama_fish_eye</i>",
+        "description": "Material icon panorama_fish_eye"
+    },
+    "material icons: panorama_horizontal": {
+        "prefix": "mi:panorama_horizontal",
+        "body": "<i class=\"material-icons\">panorama_horizontal</i>",
+        "description": "Material icon panorama_horizontal"
+    },
+    "material icons: panorama_vertical": {
+        "prefix": "mi:panorama_vertical",
+        "body": "<i class=\"material-icons\">panorama_vertical</i>",
+        "description": "Material icon panorama_vertical"
+    },
+    "material icons: panorama_wide_angle": {
+        "prefix": "mi:panorama_wide_angle",
+        "body": "<i class=\"material-icons\">panorama_wide_angle</i>",
+        "description": "Material icon panorama_wide_angle"
+    },
+    "material icons: party_mode": {
+        "prefix": "mi:party_mode",
+        "body": "<i class=\"material-icons\">party_mode</i>",
+        "description": "Material icon party_mode"
+    },
+    "material icons: pause": {
+        "prefix": "mi:pause",
+        "body": "<i class=\"material-icons\">pause</i>",
+        "description": "Material icon pause"
+    },
+    "material icons: pause_circle_filled": {
+        "prefix": "mi:pause_circle_filled",
+        "body": "<i class=\"material-icons\">pause_circle_filled</i>",
+        "description": "Material icon pause_circle_filled"
+    },
+    "material icons: pause_circle_outline": {
+        "prefix": "mi:pause_circle_outline",
+        "body": "<i class=\"material-icons\">pause_circle_outline</i>",
+        "description": "Material icon pause_circle_outline"
+    },
+    "material icons: payment": {
+        "prefix": "mi:payment",
+        "body": "<i class=\"material-icons\">payment</i>",
+        "description": "Material icon payment"
+    },
+    "material icons: people": {
+        "prefix": "mi:people",
+        "body": "<i class=\"material-icons\">people</i>",
+        "description": "Material icon people"
+    },
+    "material icons: people_outline": {
+        "prefix": "mi:people_outline",
+        "body": "<i class=\"material-icons\">people_outline</i>",
+        "description": "Material icon people_outline"
+    },
+    "material icons: perm_camera_mic": {
+        "prefix": "mi:perm_camera_mic",
+        "body": "<i class=\"material-icons\">perm_camera_mic</i>",
+        "description": "Material icon perm_camera_mic"
+    },
+    "material icons: perm_contact_calendar": {
+        "prefix": "mi:perm_contact_calendar",
+        "body": "<i class=\"material-icons\">perm_contact_calendar</i>",
+        "description": "Material icon perm_contact_calendar"
+    },
+    "material icons: perm_data_setting": {
+        "prefix": "mi:perm_data_setting",
+        "body": "<i class=\"material-icons\">perm_data_setting</i>",
+        "description": "Material icon perm_data_setting"
+    },
+    "material icons: perm_device_information": {
+        "prefix": "mi:perm_device_information",
+        "body": "<i class=\"material-icons\">perm_device_information</i>",
+        "description": "Material icon perm_device_information"
+    },
+    "material icons: perm_identity": {
+        "prefix": "mi:perm_identity",
+        "body": "<i class=\"material-icons\">perm_identity</i>",
+        "description": "Material icon perm_identity"
+    },
+    "material icons: perm_media": {
+        "prefix": "mi:perm_media",
+        "body": "<i class=\"material-icons\">perm_media</i>",
+        "description": "Material icon perm_media"
+    },
+    "material icons: perm_phone_msg": {
+        "prefix": "mi:perm_phone_msg",
+        "body": "<i class=\"material-icons\">perm_phone_msg</i>",
+        "description": "Material icon perm_phone_msg"
+    },
+    "material icons: perm_scan_wifi": {
+        "prefix": "mi:perm_scan_wifi",
+        "body": "<i class=\"material-icons\">perm_scan_wifi</i>",
+        "description": "Material icon perm_scan_wifi"
+    },
+    "material icons: person": {
+        "prefix": "mi:person",
+        "body": "<i class=\"material-icons\">person</i>",
+        "description": "Material icon person"
+    },
+    "material icons: person_add": {
+        "prefix": "mi:person_add",
+        "body": "<i class=\"material-icons\">person_add</i>",
+        "description": "Material icon person_add"
+    },
+    "material icons: person_outline": {
+        "prefix": "mi:person_outline",
+        "body": "<i class=\"material-icons\">person_outline</i>",
+        "description": "Material icon person_outline"
+    },
+    "material icons: person_pin": {
+        "prefix": "mi:person_pin",
+        "body": "<i class=\"material-icons\">person_pin</i>",
+        "description": "Material icon person_pin"
+    },
+    "material icons: person_pin_circle": {
+        "prefix": "mi:person_pin_circle",
+        "body": "<i class=\"material-icons\">person_pin_circle</i>",
+        "description": "Material icon person_pin_circle"
+    },
+    "material icons: personal_video": {
+        "prefix": "mi:personal_video",
+        "body": "<i class=\"material-icons\">personal_video</i>",
+        "description": "Material icon personal_video"
+    },
+    "material icons: pets": {
+        "prefix": "mi:pets",
+        "body": "<i class=\"material-icons\">pets</i>",
+        "description": "Material icon pets"
+    },
+    "material icons: phone": {
+        "prefix": "mi:phone",
+        "body": "<i class=\"material-icons\">phone</i>",
+        "description": "Material icon phone"
+    },
+    "material icons: phone_android": {
+        "prefix": "mi:phone_android",
+        "body": "<i class=\"material-icons\">phone_android</i>",
+        "description": "Material icon phone_android"
+    },
+    "material icons: phone_bluetooth_speaker": {
+        "prefix": "mi:phone_bluetooth_speaker",
+        "body": "<i class=\"material-icons\">phone_bluetooth_speaker</i>",
+        "description": "Material icon phone_bluetooth_speaker"
+    },
+    "material icons: phone_forwarded": {
+        "prefix": "mi:phone_forwarded",
+        "body": "<i class=\"material-icons\">phone_forwarded</i>",
+        "description": "Material icon phone_forwarded"
+    },
+    "material icons: phone_in_talk": {
+        "prefix": "mi:phone_in_talk",
+        "body": "<i class=\"material-icons\">phone_in_talk</i>",
+        "description": "Material icon phone_in_talk"
+    },
+    "material icons: phone_iphone": {
+        "prefix": "mi:phone_iphone",
+        "body": "<i class=\"material-icons\">phone_iphone</i>",
+        "description": "Material icon phone_iphone"
+    },
+    "material icons: phone_locked": {
+        "prefix": "mi:phone_locked",
+        "body": "<i class=\"material-icons\">phone_locked</i>",
+        "description": "Material icon phone_locked"
+    },
+    "material icons: phone_missed": {
+        "prefix": "mi:phone_missed",
+        "body": "<i class=\"material-icons\">phone_missed</i>",
+        "description": "Material icon phone_missed"
+    },
+    "material icons: phone_paused": {
+        "prefix": "mi:phone_paused",
+        "body": "<i class=\"material-icons\">phone_paused</i>",
+        "description": "Material icon phone_paused"
+    },
+    "material icons: phonelink": {
+        "prefix": "mi:phonelink",
+        "body": "<i class=\"material-icons\">phonelink</i>",
+        "description": "Material icon phonelink"
+    },
+    "material icons: phonelink_erase": {
+        "prefix": "mi:phonelink_erase",
+        "body": "<i class=\"material-icons\">phonelink_erase</i>",
+        "description": "Material icon phonelink_erase"
+    },
+    "material icons: phonelink_lock": {
+        "prefix": "mi:phonelink_lock",
+        "body": "<i class=\"material-icons\">phonelink_lock</i>",
+        "description": "Material icon phonelink_lock"
+    },
+    "material icons: phonelink_off": {
+        "prefix": "mi:phonelink_off",
+        "body": "<i class=\"material-icons\">phonelink_off</i>",
+        "description": "Material icon phonelink_off"
+    },
+    "material icons: phonelink_ring": {
+        "prefix": "mi:phonelink_ring",
+        "body": "<i class=\"material-icons\">phonelink_ring</i>",
+        "description": "Material icon phonelink_ring"
+    },
+    "material icons: phonelink_setup": {
+        "prefix": "mi:phonelink_setup",
+        "body": "<i class=\"material-icons\">phonelink_setup</i>",
+        "description": "Material icon phonelink_setup"
+    },
+    "material icons: photo": {
+        "prefix": "mi:photo",
+        "body": "<i class=\"material-icons\">photo</i>",
+        "description": "Material icon photo"
+    },
+    "material icons: photo_album": {
+        "prefix": "mi:photo_album",
+        "body": "<i class=\"material-icons\">photo_album</i>",
+        "description": "Material icon photo_album"
+    },
+    "material icons: photo_camera": {
+        "prefix": "mi:photo_camera",
+        "body": "<i class=\"material-icons\">photo_camera</i>",
+        "description": "Material icon photo_camera"
+    },
+    "material icons: photo_filter": {
+        "prefix": "mi:photo_filter",
+        "body": "<i class=\"material-icons\">photo_filter</i>",
+        "description": "Material icon photo_filter"
+    },
+    "material icons: photo_library": {
+        "prefix": "mi:photo_library",
+        "body": "<i class=\"material-icons\">photo_library</i>",
+        "description": "Material icon photo_library"
+    },
+    "material icons: photo_size_select_actual": {
+        "prefix": "mi:photo_size_select_actual",
+        "body": "<i class=\"material-icons\">photo_size_select_actual</i>",
+        "description": "Material icon photo_size_select_actual"
+    },
+    "material icons: photo_size_select_large": {
+        "prefix": "mi:photo_size_select_large",
+        "body": "<i class=\"material-icons\">photo_size_select_large</i>",
+        "description": "Material icon photo_size_select_large"
+    },
+    "material icons: photo_size_select_small": {
+        "prefix": "mi:photo_size_select_small",
+        "body": "<i class=\"material-icons\">photo_size_select_small</i>",
+        "description": "Material icon photo_size_select_small"
+    },
+    "material icons: picture_as_pdf": {
+        "prefix": "mi:picture_as_pdf",
+        "body": "<i class=\"material-icons\">picture_as_pdf</i>",
+        "description": "Material icon picture_as_pdf"
+    },
+    "material icons: picture_in_picture": {
+        "prefix": "mi:picture_in_picture",
+        "body": "<i class=\"material-icons\">picture_in_picture</i>",
+        "description": "Material icon picture_in_picture"
+    },
+    "material icons: picture_in_picture_alt": {
+        "prefix": "mi:picture_in_picture_alt",
+        "body": "<i class=\"material-icons\">picture_in_picture_alt</i>",
+        "description": "Material icon picture_in_picture_alt"
+    },
+    "material icons: pie_chart": {
+        "prefix": "mi:pie_chart",
+        "body": "<i class=\"material-icons\">pie_chart</i>",
+        "description": "Material icon pie_chart"
+    },
+    "material icons: pie_chart_outlined": {
+        "prefix": "mi:pie_chart_outlined",
+        "body": "<i class=\"material-icons\">pie_chart_outlined</i>",
+        "description": "Material icon pie_chart_outlined"
+    },
+    "material icons: pin_drop": {
+        "prefix": "mi:pin_drop",
+        "body": "<i class=\"material-icons\">pin_drop</i>",
+        "description": "Material icon pin_drop"
+    },
+    "material icons: place": {
+        "prefix": "mi:place",
+        "body": "<i class=\"material-icons\">place</i>",
+        "description": "Material icon place"
+    },
+    "material icons: play_arrow": {
+        "prefix": "mi:play_arrow",
+        "body": "<i class=\"material-icons\">play_arrow</i>",
+        "description": "Material icon play_arrow"
+    },
+    "material icons: play_circle_filled": {
+        "prefix": "mi:play_circle_filled",
+        "body": "<i class=\"material-icons\">play_circle_filled</i>",
+        "description": "Material icon play_circle_filled"
+    },
+    "material icons: play_circle_outline": {
+        "prefix": "mi:play_circle_outline",
+        "body": "<i class=\"material-icons\">play_circle_outline</i>",
+        "description": "Material icon play_circle_outline"
+    },
+    "material icons: play_for_work": {
+        "prefix": "mi:play_for_work",
+        "body": "<i class=\"material-icons\">play_for_work</i>",
+        "description": "Material icon play_for_work"
+    },
+    "material icons: playlist_add": {
+        "prefix": "mi:playlist_add",
+        "body": "<i class=\"material-icons\">playlist_add</i>",
+        "description": "Material icon playlist_add"
+    },
+    "material icons: playlist_add_check": {
+        "prefix": "mi:playlist_add_check",
+        "body": "<i class=\"material-icons\">playlist_add_check</i>",
+        "description": "Material icon playlist_add_check"
+    },
+    "material icons: playlist_play": {
+        "prefix": "mi:playlist_play",
+        "body": "<i class=\"material-icons\">playlist_play</i>",
+        "description": "Material icon playlist_play"
+    },
+    "material icons: plus_one": {
+        "prefix": "mi:plus_one",
+        "body": "<i class=\"material-icons\">plus_one</i>",
+        "description": "Material icon plus_one"
+    },
+    "material icons: poll": {
+        "prefix": "mi:poll",
+        "body": "<i class=\"material-icons\">poll</i>",
+        "description": "Material icon poll"
+    },
+    "material icons: polymer": {
+        "prefix": "mi:polymer",
+        "body": "<i class=\"material-icons\">polymer</i>",
+        "description": "Material icon polymer"
+    },
+    "material icons: pool": {
+        "prefix": "mi:pool",
+        "body": "<i class=\"material-icons\">pool</i>",
+        "description": "Material icon pool"
+    },
+    "material icons: portable_wifi_off": {
+        "prefix": "mi:portable_wifi_off",
+        "body": "<i class=\"material-icons\">portable_wifi_off</i>",
+        "description": "Material icon portable_wifi_off"
+    },
+    "material icons: portrait": {
+        "prefix": "mi:portrait",
+        "body": "<i class=\"material-icons\">portrait</i>",
+        "description": "Material icon portrait"
+    },
+    "material icons: power": {
+        "prefix": "mi:power",
+        "body": "<i class=\"material-icons\">power</i>",
+        "description": "Material icon power"
+    },
+    "material icons: power_input": {
+        "prefix": "mi:power_input",
+        "body": "<i class=\"material-icons\">power_input</i>",
+        "description": "Material icon power_input"
+    },
+    "material icons: power_settings_new": {
+        "prefix": "mi:power_settings_new",
+        "body": "<i class=\"material-icons\">power_settings_new</i>",
+        "description": "Material icon power_settings_new"
+    },
+    "material icons: pregnant_woman": {
+        "prefix": "mi:pregnant_woman",
+        "body": "<i class=\"material-icons\">pregnant_woman</i>",
+        "description": "Material icon pregnant_woman"
+    },
+    "material icons: present_to_all": {
+        "prefix": "mi:present_to_all",
+        "body": "<i class=\"material-icons\">present_to_all</i>",
+        "description": "Material icon present_to_all"
+    },
+    "material icons: print": {
+        "prefix": "mi:print",
+        "body": "<i class=\"material-icons\">print</i>",
+        "description": "Material icon print"
+    },
+    "material icons: priority_high": {
+        "prefix": "mi:priority_high",
+        "body": "<i class=\"material-icons\">priority_high</i>",
+        "description": "Material icon priority_high"
+    },
+    "material icons: public": {
+        "prefix": "mi:public",
+        "body": "<i class=\"material-icons\">public</i>",
+        "description": "Material icon public"
+    },
+    "material icons: publish": {
+        "prefix": "mi:publish",
+        "body": "<i class=\"material-icons\">publish</i>",
+        "description": "Material icon publish"
+    },
+    "material icons: query_builder": {
+        "prefix": "mi:query_builder",
+        "body": "<i class=\"material-icons\">query_builder</i>",
+        "description": "Material icon query_builder"
+    },
+    "material icons: question_answer": {
+        "prefix": "mi:question_answer",
+        "body": "<i class=\"material-icons\">question_answer</i>",
+        "description": "Material icon question_answer"
+    },
+    "material icons: queue": {
+        "prefix": "mi:queue",
+        "body": "<i class=\"material-icons\">queue</i>",
+        "description": "Material icon queue"
+    },
+    "material icons: queue_music": {
+        "prefix": "mi:queue_music",
+        "body": "<i class=\"material-icons\">queue_music</i>",
+        "description": "Material icon queue_music"
+    },
+    "material icons: queue_play_next": {
+        "prefix": "mi:queue_play_next",
+        "body": "<i class=\"material-icons\">queue_play_next</i>",
+        "description": "Material icon queue_play_next"
+    },
+    "material icons: radio": {
+        "prefix": "mi:radio",
+        "body": "<i class=\"material-icons\">radio</i>",
+        "description": "Material icon radio"
+    },
+    "material icons: radio_button_checked": {
+        "prefix": "mi:radio_button_checked",
+        "body": "<i class=\"material-icons\">radio_button_checked</i>",
+        "description": "Material icon radio_button_checked"
+    },
+    "material icons: radio_button_unchecked": {
+        "prefix": "mi:radio_button_unchecked",
+        "body": "<i class=\"material-icons\">radio_button_unchecked</i>",
+        "description": "Material icon radio_button_unchecked"
+    },
+    "material icons: rate_review": {
+        "prefix": "mi:rate_review",
+        "body": "<i class=\"material-icons\">rate_review</i>",
+        "description": "Material icon rate_review"
+    },
+    "material icons: receipt": {
+        "prefix": "mi:receipt",
+        "body": "<i class=\"material-icons\">receipt</i>",
+        "description": "Material icon receipt"
+    },
+    "material icons: recent_actors": {
+        "prefix": "mi:recent_actors",
+        "body": "<i class=\"material-icons\">recent_actors</i>",
+        "description": "Material icon recent_actors"
+    },
+    "material icons: record_voice_over": {
+        "prefix": "mi:record_voice_over",
+        "body": "<i class=\"material-icons\">record_voice_over</i>",
+        "description": "Material icon record_voice_over"
+    },
+    "material icons: redeem": {
+        "prefix": "mi:redeem",
+        "body": "<i class=\"material-icons\">redeem</i>",
+        "description": "Material icon redeem"
+    },
+    "material icons: redo": {
+        "prefix": "mi:redo",
+        "body": "<i class=\"material-icons\">redo</i>",
+        "description": "Material icon redo"
+    },
+    "material icons: refresh": {
+        "prefix": "mi:refresh",
+        "body": "<i class=\"material-icons\">refresh</i>",
+        "description": "Material icon refresh"
+    },
+    "material icons: remove": {
+        "prefix": "mi:remove",
+        "body": "<i class=\"material-icons\">remove</i>",
+        "description": "Material icon remove"
+    },
+    "material icons: remove_circle": {
+        "prefix": "mi:remove_circle",
+        "body": "<i class=\"material-icons\">remove_circle</i>",
+        "description": "Material icon remove_circle"
+    },
+    "material icons: remove_circle_outline": {
+        "prefix": "mi:remove_circle_outline",
+        "body": "<i class=\"material-icons\">remove_circle_outline</i>",
+        "description": "Material icon remove_circle_outline"
+    },
+    "material icons: remove_from_queue": {
+        "prefix": "mi:remove_from_queue",
+        "body": "<i class=\"material-icons\">remove_from_queue</i>",
+        "description": "Material icon remove_from_queue"
+    },
+    "material icons: remove_red_eye": {
+        "prefix": "mi:remove_red_eye",
+        "body": "<i class=\"material-icons\">remove_red_eye</i>",
+        "description": "Material icon remove_red_eye"
+    },
+    "material icons: remove_shopping_cart": {
+        "prefix": "mi:remove_shopping_cart",
+        "body": "<i class=\"material-icons\">remove_shopping_cart</i>",
+        "description": "Material icon remove_shopping_cart"
+    },
+    "material icons: reorder": {
+        "prefix": "mi:reorder",
+        "body": "<i class=\"material-icons\">reorder</i>",
+        "description": "Material icon reorder"
+    },
+    "material icons: repeat": {
+        "prefix": "mi:repeat",
+        "body": "<i class=\"material-icons\">repeat</i>",
+        "description": "Material icon repeat"
+    },
+    "material icons: repeat_one": {
+        "prefix": "mi:repeat_one",
+        "body": "<i class=\"material-icons\">repeat_one</i>",
+        "description": "Material icon repeat_one"
+    },
+    "material icons: replay": {
+        "prefix": "mi:replay",
+        "body": "<i class=\"material-icons\">replay</i>",
+        "description": "Material icon replay"
+    },
+    "material icons: replay_10": {
+        "prefix": "mi:replay_10",
+        "body": "<i class=\"material-icons\">replay_10</i>",
+        "description": "Material icon replay_10"
+    },
+    "material icons: replay_30": {
+        "prefix": "mi:replay_30",
+        "body": "<i class=\"material-icons\">replay_30</i>",
+        "description": "Material icon replay_30"
+    },
+    "material icons: replay_5": {
+        "prefix": "mi:replay_5",
+        "body": "<i class=\"material-icons\">replay_5</i>",
+        "description": "Material icon replay_5"
+    },
+    "material icons: reply": {
+        "prefix": "mi:reply",
+        "body": "<i class=\"material-icons\">reply</i>",
+        "description": "Material icon reply"
+    },
+    "material icons: reply_all": {
+        "prefix": "mi:reply_all",
+        "body": "<i class=\"material-icons\">reply_all</i>",
+        "description": "Material icon reply_all"
+    },
+    "material icons: report": {
+        "prefix": "mi:report",
+        "body": "<i class=\"material-icons\">report</i>",
+        "description": "Material icon report"
+    },
+    "material icons: report_problem": {
+        "prefix": "mi:report_problem",
+        "body": "<i class=\"material-icons\">report_problem</i>",
+        "description": "Material icon report_problem"
+    },
+    "material icons: restaurant": {
+        "prefix": "mi:restaurant",
+        "body": "<i class=\"material-icons\">restaurant</i>",
+        "description": "Material icon restaurant"
+    },
+    "material icons: restaurant_menu": {
+        "prefix": "mi:restaurant_menu",
+        "body": "<i class=\"material-icons\">restaurant_menu</i>",
+        "description": "Material icon restaurant_menu"
+    },
+    "material icons: restore": {
+        "prefix": "mi:restore",
+        "body": "<i class=\"material-icons\">restore</i>",
+        "description": "Material icon restore"
+    },
+    "material icons: restore_page": {
+        "prefix": "mi:restore_page",
+        "body": "<i class=\"material-icons\">restore_page</i>",
+        "description": "Material icon restore_page"
+    },
+    "material icons: ring_volume": {
+        "prefix": "mi:ring_volume",
+        "body": "<i class=\"material-icons\">ring_volume</i>",
+        "description": "Material icon ring_volume"
+    },
+    "material icons: room": {
+        "prefix": "mi:room",
+        "body": "<i class=\"material-icons\">room</i>",
+        "description": "Material icon room"
+    },
+    "material icons: room_service": {
+        "prefix": "mi:room_service",
+        "body": "<i class=\"material-icons\">room_service</i>",
+        "description": "Material icon room_service"
+    },
+    "material icons: rotate_90_degrees_ccw": {
+        "prefix": "mi:rotate_90_degrees_ccw",
+        "body": "<i class=\"material-icons\">rotate_90_degrees_ccw</i>",
+        "description": "Material icon rotate_90_degrees_ccw"
+    },
+    "material icons: rotate_left": {
+        "prefix": "mi:rotate_left",
+        "body": "<i class=\"material-icons\">rotate_left</i>",
+        "description": "Material icon rotate_left"
+    },
+    "material icons: rotate_right": {
+        "prefix": "mi:rotate_right",
+        "body": "<i class=\"material-icons\">rotate_right</i>",
+        "description": "Material icon rotate_right"
+    },
+    "material icons: rounded_corner": {
+        "prefix": "mi:rounded_corner",
+        "body": "<i class=\"material-icons\">rounded_corner</i>",
+        "description": "Material icon rounded_corner"
+    },
+    "material icons: router": {
+        "prefix": "mi:router",
+        "body": "<i class=\"material-icons\">router</i>",
+        "description": "Material icon router"
+    },
+    "material icons: rowing": {
+        "prefix": "mi:rowing",
+        "body": "<i class=\"material-icons\">rowing</i>",
+        "description": "Material icon rowing"
+    },
+    "material icons: rss_feed": {
+        "prefix": "mi:rss_feed",
+        "body": "<i class=\"material-icons\">rss_feed</i>",
+        "description": "Material icon rss_feed"
+    },
+    "material icons: rv_hookup": {
+        "prefix": "mi:rv_hookup",
+        "body": "<i class=\"material-icons\">rv_hookup</i>",
+        "description": "Material icon rv_hookup"
+    },
+    "material icons: satellite": {
+        "prefix": "mi:satellite",
+        "body": "<i class=\"material-icons\">satellite</i>",
+        "description": "Material icon satellite"
+    },
+    "material icons: save": {
+        "prefix": "mi:save",
+        "body": "<i class=\"material-icons\">save</i>",
+        "description": "Material icon save"
+    },
+    "material icons: scanner": {
+        "prefix": "mi:scanner",
+        "body": "<i class=\"material-icons\">scanner</i>",
+        "description": "Material icon scanner"
+    },
+    "material icons: schedule": {
+        "prefix": "mi:schedule",
+        "body": "<i class=\"material-icons\">schedule</i>",
+        "description": "Material icon schedule"
+    },
+    "material icons: school": {
+        "prefix": "mi:school",
+        "body": "<i class=\"material-icons\">school</i>",
+        "description": "Material icon school"
+    },
+    "material icons: screen_lock_landscape": {
+        "prefix": "mi:screen_lock_landscape",
+        "body": "<i class=\"material-icons\">screen_lock_landscape</i>",
+        "description": "Material icon screen_lock_landscape"
+    },
+    "material icons: screen_lock_portrait": {
+        "prefix": "mi:screen_lock_portrait",
+        "body": "<i class=\"material-icons\">screen_lock_portrait</i>",
+        "description": "Material icon screen_lock_portrait"
+    },
+    "material icons: screen_lock_rotation": {
+        "prefix": "mi:screen_lock_rotation",
+        "body": "<i class=\"material-icons\">screen_lock_rotation</i>",
+        "description": "Material icon screen_lock_rotation"
+    },
+    "material icons: screen_rotation": {
+        "prefix": "mi:screen_rotation",
+        "body": "<i class=\"material-icons\">screen_rotation</i>",
+        "description": "Material icon screen_rotation"
+    },
+    "material icons: screen_share": {
+        "prefix": "mi:screen_share",
+        "body": "<i class=\"material-icons\">screen_share</i>",
+        "description": "Material icon screen_share"
+    },
+    "material icons: sd_card": {
+        "prefix": "mi:sd_card",
+        "body": "<i class=\"material-icons\">sd_card</i>",
+        "description": "Material icon sd_card"
+    },
+    "material icons: sd_storage": {
+        "prefix": "mi:sd_storage",
+        "body": "<i class=\"material-icons\">sd_storage</i>",
+        "description": "Material icon sd_storage"
+    },
+    "material icons: search": {
+        "prefix": "mi:search",
+        "body": "<i class=\"material-icons\">search</i>",
+        "description": "Material icon search"
+    },
+    "material icons: security": {
+        "prefix": "mi:security",
+        "body": "<i class=\"material-icons\">security</i>",
+        "description": "Material icon security"
+    },
+    "material icons: select_all": {
+        "prefix": "mi:select_all",
+        "body": "<i class=\"material-icons\">select_all</i>",
+        "description": "Material icon select_all"
+    },
+    "material icons: send": {
+        "prefix": "mi:send",
+        "body": "<i class=\"material-icons\">send</i>",
+        "description": "Material icon send"
+    },
+    "material icons: sentiment_dissatisfied": {
+        "prefix": "mi:sentiment_dissatisfied",
+        "body": "<i class=\"material-icons\">sentiment_dissatisfied</i>",
+        "description": "Material icon sentiment_dissatisfied"
+    },
+    "material icons: sentiment_neutral": {
+        "prefix": "mi:sentiment_neutral",
+        "body": "<i class=\"material-icons\">sentiment_neutral</i>",
+        "description": "Material icon sentiment_neutral"
+    },
+    "material icons: sentiment_satisfied": {
+        "prefix": "mi:sentiment_satisfied",
+        "body": "<i class=\"material-icons\">sentiment_satisfied</i>",
+        "description": "Material icon sentiment_satisfied"
+    },
+    "material icons: sentiment_very_dissatisfied": {
+        "prefix": "mi:sentiment_very_dissatisfied",
+        "body": "<i class=\"material-icons\">sentiment_very_dissatisfied</i>",
+        "description": "Material icon sentiment_very_dissatisfied"
+    },
+    "material icons: sentiment_very_satisfied": {
+        "prefix": "mi:sentiment_very_satisfied",
+        "body": "<i class=\"material-icons\">sentiment_very_satisfied</i>",
+        "description": "Material icon sentiment_very_satisfied"
+    },
+    "material icons: settings": {
+        "prefix": "mi:settings",
+        "body": "<i class=\"material-icons\">settings</i>",
+        "description": "Material icon settings"
+    },
+    "material icons: settings_applications": {
+        "prefix": "mi:settings_applications",
+        "body": "<i class=\"material-icons\">settings_applications</i>",
+        "description": "Material icon settings_applications"
+    },
+    "material icons: settings_backup_restore": {
+        "prefix": "mi:settings_backup_restore",
+        "body": "<i class=\"material-icons\">settings_backup_restore</i>",
+        "description": "Material icon settings_backup_restore"
+    },
+    "material icons: settings_bluetooth": {
+        "prefix": "mi:settings_bluetooth",
+        "body": "<i class=\"material-icons\">settings_bluetooth</i>",
+        "description": "Material icon settings_bluetooth"
+    },
+    "material icons: settings_brightness": {
+        "prefix": "mi:settings_brightness",
+        "body": "<i class=\"material-icons\">settings_brightness</i>",
+        "description": "Material icon settings_brightness"
+    },
+    "material icons: settings_cell": {
+        "prefix": "mi:settings_cell",
+        "body": "<i class=\"material-icons\">settings_cell</i>",
+        "description": "Material icon settings_cell"
+    },
+    "material icons: settings_ethernet": {
+        "prefix": "mi:settings_ethernet",
+        "body": "<i class=\"material-icons\">settings_ethernet</i>",
+        "description": "Material icon settings_ethernet"
+    },
+    "material icons: settings_input_antenna": {
+        "prefix": "mi:settings_input_antenna",
+        "body": "<i class=\"material-icons\">settings_input_antenna</i>",
+        "description": "Material icon settings_input_antenna"
+    },
+    "material icons: settings_input_component": {
+        "prefix": "mi:settings_input_component",
+        "body": "<i class=\"material-icons\">settings_input_component</i>",
+        "description": "Material icon settings_input_component"
+    },
+    "material icons: settings_input_composite": {
+        "prefix": "mi:settings_input_composite",
+        "body": "<i class=\"material-icons\">settings_input_composite</i>",
+        "description": "Material icon settings_input_composite"
+    },
+    "material icons: settings_input_hdmi": {
+        "prefix": "mi:settings_input_hdmi",
+        "body": "<i class=\"material-icons\">settings_input_hdmi</i>",
+        "description": "Material icon settings_input_hdmi"
+    },
+    "material icons: settings_input_svideo": {
+        "prefix": "mi:settings_input_svideo",
+        "body": "<i class=\"material-icons\">settings_input_svideo</i>",
+        "description": "Material icon settings_input_svideo"
+    },
+    "material icons: settings_overscan": {
+        "prefix": "mi:settings_overscan",
+        "body": "<i class=\"material-icons\">settings_overscan</i>",
+        "description": "Material icon settings_overscan"
+    },
+    "material icons: settings_phone": {
+        "prefix": "mi:settings_phone",
+        "body": "<i class=\"material-icons\">settings_phone</i>",
+        "description": "Material icon settings_phone"
+    },
+    "material icons: settings_power": {
+        "prefix": "mi:settings_power",
+        "body": "<i class=\"material-icons\">settings_power</i>",
+        "description": "Material icon settings_power"
+    },
+    "material icons: settings_remote": {
+        "prefix": "mi:settings_remote",
+        "body": "<i class=\"material-icons\">settings_remote</i>",
+        "description": "Material icon settings_remote"
+    },
+    "material icons: settings_system_daydream": {
+        "prefix": "mi:settings_system_daydream",
+        "body": "<i class=\"material-icons\">settings_system_daydream</i>",
+        "description": "Material icon settings_system_daydream"
+    },
+    "material icons: settings_voice": {
+        "prefix": "mi:settings_voice",
+        "body": "<i class=\"material-icons\">settings_voice</i>",
+        "description": "Material icon settings_voice"
+    },
+    "material icons: share": {
+        "prefix": "mi:share",
+        "body": "<i class=\"material-icons\">share</i>",
+        "description": "Material icon share"
+    },
+    "material icons: shop": {
+        "prefix": "mi:shop",
+        "body": "<i class=\"material-icons\">shop</i>",
+        "description": "Material icon shop"
+    },
+    "material icons: shop_two": {
+        "prefix": "mi:shop_two",
+        "body": "<i class=\"material-icons\">shop_two</i>",
+        "description": "Material icon shop_two"
+    },
+    "material icons: shopping_basket": {
+        "prefix": "mi:shopping_basket",
+        "body": "<i class=\"material-icons\">shopping_basket</i>",
+        "description": "Material icon shopping_basket"
+    },
+    "material icons: shopping_cart": {
+        "prefix": "mi:shopping_cart",
+        "body": "<i class=\"material-icons\">shopping_cart</i>",
+        "description": "Material icon shopping_cart"
+    },
+    "material icons: short_text": {
+        "prefix": "mi:short_text",
+        "body": "<i class=\"material-icons\">short_text</i>",
+        "description": "Material icon short_text"
+    },
+    "material icons: show_chart": {
+        "prefix": "mi:show_chart",
+        "body": "<i class=\"material-icons\">show_chart</i>",
+        "description": "Material icon show_chart"
+    },
+    "material icons: shuffle": {
+        "prefix": "mi:shuffle",
+        "body": "<i class=\"material-icons\">shuffle</i>",
+        "description": "Material icon shuffle"
+    },
+    "material icons: signal_cellular_4_bar": {
+        "prefix": "mi:signal_cellular_4_bar",
+        "body": "<i class=\"material-icons\">signal_cellular_4_bar</i>",
+        "description": "Material icon signal_cellular_4_bar"
+    },
+    "material icons: signal_cellular_connected_no_internet_4_bar": {
+        "prefix": "mi:signal_cellular_connected_no_internet_4_bar",
+        "body": "<i class=\"material-icons\">signal_cellular_connected_no_internet_4_bar</i>",
+        "description": "Material icon signal_cellular_connected_no_internet_4_bar"
+    },
+    "material icons: signal_cellular_no_sim": {
+        "prefix": "mi:signal_cellular_no_sim",
+        "body": "<i class=\"material-icons\">signal_cellular_no_sim</i>",
+        "description": "Material icon signal_cellular_no_sim"
+    },
+    "material icons: signal_cellular_null": {
+        "prefix": "mi:signal_cellular_null",
+        "body": "<i class=\"material-icons\">signal_cellular_null</i>",
+        "description": "Material icon signal_cellular_null"
+    },
+    "material icons: signal_cellular_off": {
+        "prefix": "mi:signal_cellular_off",
+        "body": "<i class=\"material-icons\">signal_cellular_off</i>",
+        "description": "Material icon signal_cellular_off"
+    },
+    "material icons: signal_wifi_4_bar": {
+        "prefix": "mi:signal_wifi_4_bar",
+        "body": "<i class=\"material-icons\">signal_wifi_4_bar</i>",
+        "description": "Material icon signal_wifi_4_bar"
+    },
+    "material icons: signal_wifi_4_bar_lock": {
+        "prefix": "mi:signal_wifi_4_bar_lock",
+        "body": "<i class=\"material-icons\">signal_wifi_4_bar_lock</i>",
+        "description": "Material icon signal_wifi_4_bar_lock"
+    },
+    "material icons: signal_wifi_off": {
+        "prefix": "mi:signal_wifi_off",
+        "body": "<i class=\"material-icons\">signal_wifi_off</i>",
+        "description": "Material icon signal_wifi_off"
+    },
+    "material icons: sim_card": {
+        "prefix": "mi:sim_card",
+        "body": "<i class=\"material-icons\">sim_card</i>",
+        "description": "Material icon sim_card"
+    },
+    "material icons: sim_card_alert": {
+        "prefix": "mi:sim_card_alert",
+        "body": "<i class=\"material-icons\">sim_card_alert</i>",
+        "description": "Material icon sim_card_alert"
+    },
+    "material icons: skip_next": {
+        "prefix": "mi:skip_next",
+        "body": "<i class=\"material-icons\">skip_next</i>",
+        "description": "Material icon skip_next"
+    },
+    "material icons: skip_previous": {
+        "prefix": "mi:skip_previous",
+        "body": "<i class=\"material-icons\">skip_previous</i>",
+        "description": "Material icon skip_previous"
+    },
+    "material icons: slideshow": {
+        "prefix": "mi:slideshow",
+        "body": "<i class=\"material-icons\">slideshow</i>",
+        "description": "Material icon slideshow"
+    },
+    "material icons: slow_motion_video": {
+        "prefix": "mi:slow_motion_video",
+        "body": "<i class=\"material-icons\">slow_motion_video</i>",
+        "description": "Material icon slow_motion_video"
+    },
+    "material icons: smartphone": {
+        "prefix": "mi:smartphone",
+        "body": "<i class=\"material-icons\">smartphone</i>",
+        "description": "Material icon smartphone"
+    },
+    "material icons: smoke_free": {
+        "prefix": "mi:smoke_free",
+        "body": "<i class=\"material-icons\">smoke_free</i>",
+        "description": "Material icon smoke_free"
+    },
+    "material icons: smoking_rooms": {
+        "prefix": "mi:smoking_rooms",
+        "body": "<i class=\"material-icons\">smoking_rooms</i>",
+        "description": "Material icon smoking_rooms"
+    },
+    "material icons: sms": {
+        "prefix": "mi:sms",
+        "body": "<i class=\"material-icons\">sms</i>",
+        "description": "Material icon sms"
+    },
+    "material icons: sms_failed": {
+        "prefix": "mi:sms_failed",
+        "body": "<i class=\"material-icons\">sms_failed</i>",
+        "description": "Material icon sms_failed"
+    },
+    "material icons: snooze": {
+        "prefix": "mi:snooze",
+        "body": "<i class=\"material-icons\">snooze</i>",
+        "description": "Material icon snooze"
+    },
+    "material icons: sort": {
+        "prefix": "mi:sort",
+        "body": "<i class=\"material-icons\">sort</i>",
+        "description": "Material icon sort"
+    },
+    "material icons: sort_by_alpha": {
+        "prefix": "mi:sort_by_alpha",
+        "body": "<i class=\"material-icons\">sort_by_alpha</i>",
+        "description": "Material icon sort_by_alpha"
+    },
+    "material icons: spa": {
+        "prefix": "mi:spa",
+        "body": "<i class=\"material-icons\">spa</i>",
+        "description": "Material icon spa"
+    },
+    "material icons: space_bar": {
+        "prefix": "mi:space_bar",
+        "body": "<i class=\"material-icons\">space_bar</i>",
+        "description": "Material icon space_bar"
+    },
+    "material icons: speaker": {
+        "prefix": "mi:speaker",
+        "body": "<i class=\"material-icons\">speaker</i>",
+        "description": "Material icon speaker"
+    },
+    "material icons: speaker_group": {
+        "prefix": "mi:speaker_group",
+        "body": "<i class=\"material-icons\">speaker_group</i>",
+        "description": "Material icon speaker_group"
+    },
+    "material icons: speaker_notes": {
+        "prefix": "mi:speaker_notes",
+        "body": "<i class=\"material-icons\">speaker_notes</i>",
+        "description": "Material icon speaker_notes"
+    },
+    "material icons: speaker_notes_off": {
+        "prefix": "mi:speaker_notes_off",
+        "body": "<i class=\"material-icons\">speaker_notes_off</i>",
+        "description": "Material icon speaker_notes_off"
+    },
+    "material icons: speaker_phone": {
+        "prefix": "mi:speaker_phone",
+        "body": "<i class=\"material-icons\">speaker_phone</i>",
+        "description": "Material icon speaker_phone"
+    },
+    "material icons: spellcheck": {
+        "prefix": "mi:spellcheck",
+        "body": "<i class=\"material-icons\">spellcheck</i>",
+        "description": "Material icon spellcheck"
+    },
+    "material icons: star": {
+        "prefix": "mi:star",
+        "body": "<i class=\"material-icons\">star</i>",
+        "description": "Material icon star"
+    },
+    "material icons: star_border": {
+        "prefix": "mi:star_border",
+        "body": "<i class=\"material-icons\">star_border</i>",
+        "description": "Material icon star_border"
+    },
+    "material icons: star_half": {
+        "prefix": "mi:star_half",
+        "body": "<i class=\"material-icons\">star_half</i>",
+        "description": "Material icon star_half"
+    },
+    "material icons: stars": {
+        "prefix": "mi:stars",
+        "body": "<i class=\"material-icons\">stars</i>",
+        "description": "Material icon stars"
+    },
+    "material icons: stay_current_landscape": {
+        "prefix": "mi:stay_current_landscape",
+        "body": "<i class=\"material-icons\">stay_current_landscape</i>",
+        "description": "Material icon stay_current_landscape"
+    },
+    "material icons: stay_current_portrait": {
+        "prefix": "mi:stay_current_portrait",
+        "body": "<i class=\"material-icons\">stay_current_portrait</i>",
+        "description": "Material icon stay_current_portrait"
+    },
+    "material icons: stay_primary_landscape": {
+        "prefix": "mi:stay_primary_landscape",
+        "body": "<i class=\"material-icons\">stay_primary_landscape</i>",
+        "description": "Material icon stay_primary_landscape"
+    },
+    "material icons: stay_primary_portrait": {
+        "prefix": "mi:stay_primary_portrait",
+        "body": "<i class=\"material-icons\">stay_primary_portrait</i>",
+        "description": "Material icon stay_primary_portrait"
+    },
+    "material icons: stop": {
+        "prefix": "mi:stop",
+        "body": "<i class=\"material-icons\">stop</i>",
+        "description": "Material icon stop"
+    },
+    "material icons: stop_screen_share": {
+        "prefix": "mi:stop_screen_share",
+        "body": "<i class=\"material-icons\">stop_screen_share</i>",
+        "description": "Material icon stop_screen_share"
+    },
+    "material icons: storage": {
+        "prefix": "mi:storage",
+        "body": "<i class=\"material-icons\">storage</i>",
+        "description": "Material icon storage"
+    },
+    "material icons: store": {
+        "prefix": "mi:store",
+        "body": "<i class=\"material-icons\">store</i>",
+        "description": "Material icon store"
+    },
+    "material icons: store_mall_directory": {
+        "prefix": "mi:store_mall_directory",
+        "body": "<i class=\"material-icons\">store_mall_directory</i>",
+        "description": "Material icon store_mall_directory"
+    },
+    "material icons: straighten": {
+        "prefix": "mi:straighten",
+        "body": "<i class=\"material-icons\">straighten</i>",
+        "description": "Material icon straighten"
+    },
+    "material icons: streetview": {
+        "prefix": "mi:streetview",
+        "body": "<i class=\"material-icons\">streetview</i>",
+        "description": "Material icon streetview"
+    },
+    "material icons: strikethrough_s": {
+        "prefix": "mi:strikethrough_s",
+        "body": "<i class=\"material-icons\">strikethrough_s</i>",
+        "description": "Material icon strikethrough_s"
+    },
+    "material icons: style": {
+        "prefix": "mi:style",
+        "body": "<i class=\"material-icons\">style</i>",
+        "description": "Material icon style"
+    },
+    "material icons: subdirectory_arrow_left": {
+        "prefix": "mi:subdirectory_arrow_left",
+        "body": "<i class=\"material-icons\">subdirectory_arrow_left</i>",
+        "description": "Material icon subdirectory_arrow_left"
+    },
+    "material icons: subdirectory_arrow_right": {
+        "prefix": "mi:subdirectory_arrow_right",
+        "body": "<i class=\"material-icons\">subdirectory_arrow_right</i>",
+        "description": "Material icon subdirectory_arrow_right"
+    },
+    "material icons: subject": {
+        "prefix": "mi:subject",
+        "body": "<i class=\"material-icons\">subject</i>",
+        "description": "Material icon subject"
+    },
+    "material icons: subscriptions": {
+        "prefix": "mi:subscriptions",
+        "body": "<i class=\"material-icons\">subscriptions</i>",
+        "description": "Material icon subscriptions"
+    },
+    "material icons: subtitles": {
+        "prefix": "mi:subtitles",
+        "body": "<i class=\"material-icons\">subtitles</i>",
+        "description": "Material icon subtitles"
+    },
+    "material icons: subway": {
+        "prefix": "mi:subway",
+        "body": "<i class=\"material-icons\">subway</i>",
+        "description": "Material icon subway"
+    },
+    "material icons: supervisor_account": {
+        "prefix": "mi:supervisor_account",
+        "body": "<i class=\"material-icons\">supervisor_account</i>",
+        "description": "Material icon supervisor_account"
+    },
+    "material icons: surround_sound": {
+        "prefix": "mi:surround_sound",
+        "body": "<i class=\"material-icons\">surround_sound</i>",
+        "description": "Material icon surround_sound"
+    },
+    "material icons: swap_calls": {
+        "prefix": "mi:swap_calls",
+        "body": "<i class=\"material-icons\">swap_calls</i>",
+        "description": "Material icon swap_calls"
+    },
+    "material icons: swap_horiz": {
+        "prefix": "mi:swap_horiz",
+        "body": "<i class=\"material-icons\">swap_horiz</i>",
+        "description": "Material icon swap_horiz"
+    },
+    "material icons: swap_vert": {
+        "prefix": "mi:swap_vert",
+        "body": "<i class=\"material-icons\">swap_vert</i>",
+        "description": "Material icon swap_vert"
+    },
+    "material icons: swap_vertical_circle": {
+        "prefix": "mi:swap_vertical_circle",
+        "body": "<i class=\"material-icons\">swap_vertical_circle</i>",
+        "description": "Material icon swap_vertical_circle"
+    },
+    "material icons: switch_camera": {
+        "prefix": "mi:switch_camera",
+        "body": "<i class=\"material-icons\">switch_camera</i>",
+        "description": "Material icon switch_camera"
+    },
+    "material icons: switch_video": {
+        "prefix": "mi:switch_video",
+        "body": "<i class=\"material-icons\">switch_video</i>",
+        "description": "Material icon switch_video"
+    },
+    "material icons: sync": {
+        "prefix": "mi:sync",
+        "body": "<i class=\"material-icons\">sync</i>",
+        "description": "Material icon sync"
+    },
+    "material icons: sync_disabled": {
+        "prefix": "mi:sync_disabled",
+        "body": "<i class=\"material-icons\">sync_disabled</i>",
+        "description": "Material icon sync_disabled"
+    },
+    "material icons: sync_problem": {
+        "prefix": "mi:sync_problem",
+        "body": "<i class=\"material-icons\">sync_problem</i>",
+        "description": "Material icon sync_problem"
+    },
+    "material icons: system_update": {
+        "prefix": "mi:system_update",
+        "body": "<i class=\"material-icons\">system_update</i>",
+        "description": "Material icon system_update"
+    },
+    "material icons: system_update_alt": {
+        "prefix": "mi:system_update_alt",
+        "body": "<i class=\"material-icons\">system_update_alt</i>",
+        "description": "Material icon system_update_alt"
+    },
+    "material icons: tab": {
+        "prefix": "mi:tab",
+        "body": "<i class=\"material-icons\">tab</i>",
+        "description": "Material icon tab"
+    },
+    "material icons: tab_unselected": {
+        "prefix": "mi:tab_unselected",
+        "body": "<i class=\"material-icons\">tab_unselected</i>",
+        "description": "Material icon tab_unselected"
+    },
+    "material icons: tablet": {
+        "prefix": "mi:tablet",
+        "body": "<i class=\"material-icons\">tablet</i>",
+        "description": "Material icon tablet"
+    },
+    "material icons: tablet_android": {
+        "prefix": "mi:tablet_android",
+        "body": "<i class=\"material-icons\">tablet_android</i>",
+        "description": "Material icon tablet_android"
+    },
+    "material icons: tablet_mac": {
+        "prefix": "mi:tablet_mac",
+        "body": "<i class=\"material-icons\">tablet_mac</i>",
+        "description": "Material icon tablet_mac"
+    },
+    "material icons: tag_faces": {
+        "prefix": "mi:tag_faces",
+        "body": "<i class=\"material-icons\">tag_faces</i>",
+        "description": "Material icon tag_faces"
+    },
+    "material icons: tap_and_play": {
+        "prefix": "mi:tap_and_play",
+        "body": "<i class=\"material-icons\">tap_and_play</i>",
+        "description": "Material icon tap_and_play"
+    },
+    "material icons: terrain": {
+        "prefix": "mi:terrain",
+        "body": "<i class=\"material-icons\">terrain</i>",
+        "description": "Material icon terrain"
+    },
+    "material icons: text_fields": {
+        "prefix": "mi:text_fields",
+        "body": "<i class=\"material-icons\">text_fields</i>",
+        "description": "Material icon text_fields"
+    },
+    "material icons: text_format": {
+        "prefix": "mi:text_format",
+        "body": "<i class=\"material-icons\">text_format</i>",
+        "description": "Material icon text_format"
+    },
+    "material icons: textsms": {
+        "prefix": "mi:textsms",
+        "body": "<i class=\"material-icons\">textsms</i>",
+        "description": "Material icon textsms"
+    },
+    "material icons: texture": {
+        "prefix": "mi:texture",
+        "body": "<i class=\"material-icons\">texture</i>",
+        "description": "Material icon texture"
+    },
+    "material icons: theaters": {
+        "prefix": "mi:theaters",
+        "body": "<i class=\"material-icons\">theaters</i>",
+        "description": "Material icon theaters"
+    },
+    "material icons: thumb_down": {
+        "prefix": "mi:thumb_down",
+        "body": "<i class=\"material-icons\">thumb_down</i>",
+        "description": "Material icon thumb_down"
+    },
+    "material icons: thumb_up": {
+        "prefix": "mi:thumb_up",
+        "body": "<i class=\"material-icons\">thumb_up</i>",
+        "description": "Material icon thumb_up"
+    },
+    "material icons: thumbs_up_down": {
+        "prefix": "mi:thumbs_up_down",
+        "body": "<i class=\"material-icons\">thumbs_up_down</i>",
+        "description": "Material icon thumbs_up_down"
+    },
+    "material icons: time_to_leave": {
+        "prefix": "mi:time_to_leave",
+        "body": "<i class=\"material-icons\">time_to_leave</i>",
+        "description": "Material icon time_to_leave"
+    },
+    "material icons: timelapse": {
+        "prefix": "mi:timelapse",
+        "body": "<i class=\"material-icons\">timelapse</i>",
+        "description": "Material icon timelapse"
+    },
+    "material icons: timeline": {
+        "prefix": "mi:timeline",
+        "body": "<i class=\"material-icons\">timeline</i>",
+        "description": "Material icon timeline"
+    },
+    "material icons: timer": {
+        "prefix": "mi:timer",
+        "body": "<i class=\"material-icons\">timer</i>",
+        "description": "Material icon timer"
+    },
+    "material icons: timer_10": {
+        "prefix": "mi:timer_10",
+        "body": "<i class=\"material-icons\">timer_10</i>",
+        "description": "Material icon timer_10"
+    },
+    "material icons: timer_3": {
+        "prefix": "mi:timer_3",
+        "body": "<i class=\"material-icons\">timer_3</i>",
+        "description": "Material icon timer_3"
+    },
+    "material icons: timer_off": {
+        "prefix": "mi:timer_off",
+        "body": "<i class=\"material-icons\">timer_off</i>",
+        "description": "Material icon timer_off"
+    },
+    "material icons: title": {
+        "prefix": "mi:title",
+        "body": "<i class=\"material-icons\">title</i>",
+        "description": "Material icon title"
+    },
+    "material icons: toc": {
+        "prefix": "mi:toc",
+        "body": "<i class=\"material-icons\">toc</i>",
+        "description": "Material icon toc"
+    },
+    "material icons: today": {
+        "prefix": "mi:today",
+        "body": "<i class=\"material-icons\">today</i>",
+        "description": "Material icon today"
+    },
+    "material icons: toll": {
+        "prefix": "mi:toll",
+        "body": "<i class=\"material-icons\">toll</i>",
+        "description": "Material icon toll"
+    },
+    "material icons: tonality": {
+        "prefix": "mi:tonality",
+        "body": "<i class=\"material-icons\">tonality</i>",
+        "description": "Material icon tonality"
+    },
+    "material icons: touch_app": {
+        "prefix": "mi:touch_app",
+        "body": "<i class=\"material-icons\">touch_app</i>",
+        "description": "Material icon touch_app"
+    },
+    "material icons: toys": {
+        "prefix": "mi:toys",
+        "body": "<i class=\"material-icons\">toys</i>",
+        "description": "Material icon toys"
+    },
+    "material icons: track_changes": {
+        "prefix": "mi:track_changes",
+        "body": "<i class=\"material-icons\">track_changes</i>",
+        "description": "Material icon track_changes"
+    },
+    "material icons: traffic": {
+        "prefix": "mi:traffic",
+        "body": "<i class=\"material-icons\">traffic</i>",
+        "description": "Material icon traffic"
+    },
+    "material icons: train": {
+        "prefix": "mi:train",
+        "body": "<i class=\"material-icons\">train</i>",
+        "description": "Material icon train"
+    },
+    "material icons: tram": {
+        "prefix": "mi:tram",
+        "body": "<i class=\"material-icons\">tram</i>",
+        "description": "Material icon tram"
+    },
+    "material icons: transfer_within_a_station": {
+        "prefix": "mi:transfer_within_a_station",
+        "body": "<i class=\"material-icons\">transfer_within_a_station</i>",
+        "description": "Material icon transfer_within_a_station"
+    },
+    "material icons: transform": {
+        "prefix": "mi:transform",
+        "body": "<i class=\"material-icons\">transform</i>",
+        "description": "Material icon transform"
+    },
+    "material icons: translate": {
+        "prefix": "mi:translate",
+        "body": "<i class=\"material-icons\">translate</i>",
+        "description": "Material icon translate"
+    },
+    "material icons: trending_down": {
+        "prefix": "mi:trending_down",
+        "body": "<i class=\"material-icons\">trending_down</i>",
+        "description": "Material icon trending_down"
+    },
+    "material icons: trending_flat": {
+        "prefix": "mi:trending_flat",
+        "body": "<i class=\"material-icons\">trending_flat</i>",
+        "description": "Material icon trending_flat"
+    },
+    "material icons: trending_up": {
+        "prefix": "mi:trending_up",
+        "body": "<i class=\"material-icons\">trending_up</i>",
+        "description": "Material icon trending_up"
+    },
+    "material icons: tune": {
+        "prefix": "mi:tune",
+        "body": "<i class=\"material-icons\">tune</i>",
+        "description": "Material icon tune"
+    },
+    "material icons: turned_in": {
+        "prefix": "mi:turned_in",
+        "body": "<i class=\"material-icons\">turned_in</i>",
+        "description": "Material icon turned_in"
+    },
+    "material icons: turned_in_not": {
+        "prefix": "mi:turned_in_not",
+        "body": "<i class=\"material-icons\">turned_in_not</i>",
+        "description": "Material icon turned_in_not"
+    },
+    "material icons: tv": {
+        "prefix": "mi:tv",
+        "body": "<i class=\"material-icons\">tv</i>",
+        "description": "Material icon tv"
+    },
+    "material icons: unarchive": {
+        "prefix": "mi:unarchive",
+        "body": "<i class=\"material-icons\">unarchive</i>",
+        "description": "Material icon unarchive"
+    },
+    "material icons: undo": {
+        "prefix": "mi:undo",
+        "body": "<i class=\"material-icons\">undo</i>",
+        "description": "Material icon undo"
+    },
+    "material icons: unfold_less": {
+        "prefix": "mi:unfold_less",
+        "body": "<i class=\"material-icons\">unfold_less</i>",
+        "description": "Material icon unfold_less"
+    },
+    "material icons: unfold_more": {
+        "prefix": "mi:unfold_more",
+        "body": "<i class=\"material-icons\">unfold_more</i>",
+        "description": "Material icon unfold_more"
+    },
+    "material icons: update": {
+        "prefix": "mi:update",
+        "body": "<i class=\"material-icons\">update</i>",
+        "description": "Material icon update"
+    },
+    "material icons: usb": {
+        "prefix": "mi:usb",
+        "body": "<i class=\"material-icons\">usb</i>",
+        "description": "Material icon usb"
+    },
+    "material icons: verified_user": {
+        "prefix": "mi:verified_user",
+        "body": "<i class=\"material-icons\">verified_user</i>",
+        "description": "Material icon verified_user"
+    },
+    "material icons: vertical_align_bottom": {
+        "prefix": "mi:vertical_align_bottom",
+        "body": "<i class=\"material-icons\">vertical_align_bottom</i>",
+        "description": "Material icon vertical_align_bottom"
+    },
+    "material icons: vertical_align_center": {
+        "prefix": "mi:vertical_align_center",
+        "body": "<i class=\"material-icons\">vertical_align_center</i>",
+        "description": "Material icon vertical_align_center"
+    },
+    "material icons: vertical_align_top": {
+        "prefix": "mi:vertical_align_top",
+        "body": "<i class=\"material-icons\">vertical_align_top</i>",
+        "description": "Material icon vertical_align_top"
+    },
+    "material icons: vibration": {
+        "prefix": "mi:vibration",
+        "body": "<i class=\"material-icons\">vibration</i>",
+        "description": "Material icon vibration"
+    },
+    "material icons: video_call": {
+        "prefix": "mi:video_call",
+        "body": "<i class=\"material-icons\">video_call</i>",
+        "description": "Material icon video_call"
+    },
+    "material icons: video_label": {
+        "prefix": "mi:video_label",
+        "body": "<i class=\"material-icons\">video_label</i>",
+        "description": "Material icon video_label"
+    },
+    "material icons: video_library": {
+        "prefix": "mi:video_library",
+        "body": "<i class=\"material-icons\">video_library</i>",
+        "description": "Material icon video_library"
+    },
+    "material icons: videocam": {
+        "prefix": "mi:videocam",
+        "body": "<i class=\"material-icons\">videocam</i>",
+        "description": "Material icon videocam"
+    },
+    "material icons: videocam_off": {
+        "prefix": "mi:videocam_off",
+        "body": "<i class=\"material-icons\">videocam_off</i>",
+        "description": "Material icon videocam_off"
+    },
+    "material icons: videogame_asset": {
+        "prefix": "mi:videogame_asset",
+        "body": "<i class=\"material-icons\">videogame_asset</i>",
+        "description": "Material icon videogame_asset"
+    },
+    "material icons: view_agenda": {
+        "prefix": "mi:view_agenda",
+        "body": "<i class=\"material-icons\">view_agenda</i>",
+        "description": "Material icon view_agenda"
+    },
+    "material icons: view_array": {
+        "prefix": "mi:view_array",
+        "body": "<i class=\"material-icons\">view_array</i>",
+        "description": "Material icon view_array"
+    },
+    "material icons: view_carousel": {
+        "prefix": "mi:view_carousel",
+        "body": "<i class=\"material-icons\">view_carousel</i>",
+        "description": "Material icon view_carousel"
+    },
+    "material icons: view_column": {
+        "prefix": "mi:view_column",
+        "body": "<i class=\"material-icons\">view_column</i>",
+        "description": "Material icon view_column"
+    },
+    "material icons: view_comfy": {
+        "prefix": "mi:view_comfy",
+        "body": "<i class=\"material-icons\">view_comfy</i>",
+        "description": "Material icon view_comfy"
+    },
+    "material icons: view_compact": {
+        "prefix": "mi:view_compact",
+        "body": "<i class=\"material-icons\">view_compact</i>",
+        "description": "Material icon view_compact"
+    },
+    "material icons: view_day": {
+        "prefix": "mi:view_day",
+        "body": "<i class=\"material-icons\">view_day</i>",
+        "description": "Material icon view_day"
+    },
+    "material icons: view_headline": {
+        "prefix": "mi:view_headline",
+        "body": "<i class=\"material-icons\">view_headline</i>",
+        "description": "Material icon view_headline"
+    },
+    "material icons: view_list": {
+        "prefix": "mi:view_list",
+        "body": "<i class=\"material-icons\">view_list</i>",
+        "description": "Material icon view_list"
+    },
+    "material icons: view_module": {
+        "prefix": "mi:view_module",
+        "body": "<i class=\"material-icons\">view_module</i>",
+        "description": "Material icon view_module"
+    },
+    "material icons: view_quilt": {
+        "prefix": "mi:view_quilt",
+        "body": "<i class=\"material-icons\">view_quilt</i>",
+        "description": "Material icon view_quilt"
+    },
+    "material icons: view_stream": {
+        "prefix": "mi:view_stream",
+        "body": "<i class=\"material-icons\">view_stream</i>",
+        "description": "Material icon view_stream"
+    },
+    "material icons: view_week": {
+        "prefix": "mi:view_week",
+        "body": "<i class=\"material-icons\">view_week</i>",
+        "description": "Material icon view_week"
+    },
+    "material icons: vignette": {
+        "prefix": "mi:vignette",
+        "body": "<i class=\"material-icons\">vignette</i>",
+        "description": "Material icon vignette"
+    },
+    "material icons: visibility": {
+        "prefix": "mi:visibility",
+        "body": "<i class=\"material-icons\">visibility</i>",
+        "description": "Material icon visibility"
+    },
+    "material icons: visibility_off": {
+        "prefix": "mi:visibility_off",
+        "body": "<i class=\"material-icons\">visibility_off</i>",
+        "description": "Material icon visibility_off"
+    },
+    "material icons: voice_chat": {
+        "prefix": "mi:voice_chat",
+        "body": "<i class=\"material-icons\">voice_chat</i>",
+        "description": "Material icon voice_chat"
+    },
+    "material icons: voicemail": {
+        "prefix": "mi:voicemail",
+        "body": "<i class=\"material-icons\">voicemail</i>",
+        "description": "Material icon voicemail"
+    },
+    "material icons: volume_down": {
+        "prefix": "mi:volume_down",
+        "body": "<i class=\"material-icons\">volume_down</i>",
+        "description": "Material icon volume_down"
+    },
+    "material icons: volume_mute": {
+        "prefix": "mi:volume_mute",
+        "body": "<i class=\"material-icons\">volume_mute</i>",
+        "description": "Material icon volume_mute"
+    },
+    "material icons: volume_off": {
+        "prefix": "mi:volume_off",
+        "body": "<i class=\"material-icons\">volume_off</i>",
+        "description": "Material icon volume_off"
+    },
+    "material icons: volume_up": {
+        "prefix": "mi:volume_up",
+        "body": "<i class=\"material-icons\">volume_up</i>",
+        "description": "Material icon volume_up"
+    },
+    "material icons: vpn_key": {
+        "prefix": "mi:vpn_key",
+        "body": "<i class=\"material-icons\">vpn_key</i>",
+        "description": "Material icon vpn_key"
+    },
+    "material icons: vpn_lock": {
+        "prefix": "mi:vpn_lock",
+        "body": "<i class=\"material-icons\">vpn_lock</i>",
+        "description": "Material icon vpn_lock"
+    },
+    "material icons: wallpaper": {
+        "prefix": "mi:wallpaper",
+        "body": "<i class=\"material-icons\">wallpaper</i>",
+        "description": "Material icon wallpaper"
+    },
+    "material icons: warning": {
+        "prefix": "mi:warning",
+        "body": "<i class=\"material-icons\">warning</i>",
+        "description": "Material icon warning"
+    },
+    "material icons: watch": {
+        "prefix": "mi:watch",
+        "body": "<i class=\"material-icons\">watch</i>",
+        "description": "Material icon watch"
+    },
+    "material icons: watch_later": {
+        "prefix": "mi:watch_later",
+        "body": "<i class=\"material-icons\">watch_later</i>",
+        "description": "Material icon watch_later"
+    },
+    "material icons: wb_auto": {
+        "prefix": "mi:wb_auto",
+        "body": "<i class=\"material-icons\">wb_auto</i>",
+        "description": "Material icon wb_auto"
+    },
+    "material icons: wb_cloudy": {
+        "prefix": "mi:wb_cloudy",
+        "body": "<i class=\"material-icons\">wb_cloudy</i>",
+        "description": "Material icon wb_cloudy"
+    },
+    "material icons: wb_incandescent": {
+        "prefix": "mi:wb_incandescent",
+        "body": "<i class=\"material-icons\">wb_incandescent</i>",
+        "description": "Material icon wb_incandescent"
+    },
+    "material icons: wb_iridescent": {
+        "prefix": "mi:wb_iridescent",
+        "body": "<i class=\"material-icons\">wb_iridescent</i>",
+        "description": "Material icon wb_iridescent"
+    },
+    "material icons: wb_sunny": {
+        "prefix": "mi:wb_sunny",
+        "body": "<i class=\"material-icons\">wb_sunny</i>",
+        "description": "Material icon wb_sunny"
+    },
+    "material icons: wc": {
+        "prefix": "mi:wc",
+        "body": "<i class=\"material-icons\">wc</i>",
+        "description": "Material icon wc"
+    },
+    "material icons: web": {
+        "prefix": "mi:web",
+        "body": "<i class=\"material-icons\">web</i>",
+        "description": "Material icon web"
+    },
+    "material icons: web_asset": {
+        "prefix": "mi:web_asset",
+        "body": "<i class=\"material-icons\">web_asset</i>",
+        "description": "Material icon web_asset"
+    },
+    "material icons: weekend": {
+        "prefix": "mi:weekend",
+        "body": "<i class=\"material-icons\">weekend</i>",
+        "description": "Material icon weekend"
+    },
+    "material icons: whatshot": {
+        "prefix": "mi:whatshot",
+        "body": "<i class=\"material-icons\">whatshot</i>",
+        "description": "Material icon whatshot"
+    },
+    "material icons: widgets": {
+        "prefix": "mi:widgets",
+        "body": "<i class=\"material-icons\">widgets</i>",
+        "description": "Material icon widgets"
+    },
+    "material icons: wifi": {
+        "prefix": "mi:wifi",
+        "body": "<i class=\"material-icons\">wifi</i>",
+        "description": "Material icon wifi"
+    },
+    "material icons: wifi_lock": {
+        "prefix": "mi:wifi_lock",
+        "body": "<i class=\"material-icons\">wifi_lock</i>",
+        "description": "Material icon wifi_lock"
+    },
+    "material icons: wifi_tethering": {
+        "prefix": "mi:wifi_tethering",
+        "body": "<i class=\"material-icons\">wifi_tethering</i>",
+        "description": "Material icon wifi_tethering"
+    },
+    "material icons: work": {
+        "prefix": "mi:work",
+        "body": "<i class=\"material-icons\">work</i>",
+        "description": "Material icon work"
+    },
+    "material icons: wrap_text": {
+        "prefix": "mi:wrap_text",
+        "body": "<i class=\"material-icons\">wrap_text</i>",
+        "description": "Material icon wrap_text"
+    },
+    "material icons: youtube_searched_for": {
+        "prefix": "mi:youtube_searched_for",
+        "body": "<i class=\"material-icons\">youtube_searched_for</i>",
+        "description": "Material icon youtube_searched_for"
+    },
+    "material icons: zoom_in": {
+        "prefix": "mi:zoom_in",
+        "body": "<i class=\"material-icons\">zoom_in</i>",
+        "description": "Material icon zoom_in"
+    },
+    "material icons: zoom_out": {
+        "prefix": "mi:zoom_out",
+        "body": "<i class=\"material-icons\">zoom_out</i>",
+        "description": "Material icon zoom_out"
+    },
+    "material icons: zoom_out_map": {
+        "prefix": "mi:zoom_out_map",
+        "body": "<i class=\"material-icons\">zoom_out_map</i>",
+        "description": "Material icon zoom_out_map"
+    }
+}
